@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\coding\\.NET\\FirstLab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87208A3D-9832-474C-80AA-23B52BF790F1}|FirstLab\\FirstLab.csproj|D:\\coding\\.NET\\FirstLab\\firstlab\\views\\portfolio\\projects.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87208A3D-9832-474C-80AA-23B52BF790F1}|FirstLab\\FirstLab.csproj|solutionrelative:firstlab\\views\\portfolio\\projects.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87208A3D-9832-474C-80AA-23B52BF790F1}|FirstLab\\FirstLab.csproj|d:\\coding\\.net\\firstlab\\firstlab\\views\\portfolio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87208A3D-9832-474C-80AA-23B52BF790F1}|FirstLab\\FirstLab.csproj|solutionrelative:firstlab\\views\\portfolio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87208A3D-9832-474C-80AA-23B52BF790F1}|FirstLab\\FirstLab.csproj|D:\\coding\\.NET\\FirstLab\\firstlab\\controllers\\portfoliocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87208A3D-9832-474C-80AA-23B52BF790F1}|FirstLab\\FirstLab.csproj|solutionrelative:firstlab\\controllers\\portfoliocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87208A3D-9832-474C-80AA-23B52BF790F1}|FirstLab\\FirstLab.csproj|D:\\coding\\.NET\\FirstLab\\firstlab\\views\\portfolio\\education.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87208A3D-9832-474C-80AA-23B52BF790F1}|FirstLab\\FirstLab.csproj|solutionrelative:firstlab\\views\\portfolio\\education.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87208A3D-9832-474C-80AA-23B52BF790F1}|FirstLab\\FirstLab.csproj|D:\\coding\\.NET\\FirstLab\\firstlab\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87208A3D-9832-474C-80AA-23B52BF790F1}|FirstLab\\FirstLab.csproj|solutionrelative:firstlab\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87208A3D-9832-474C-80AA-23B52BF790F1}|FirstLab\\FirstLab.csproj|D:\\coding\\.NET\\FirstLab\\firstlab\\views\\portfolio\\reference.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87208A3D-9832-474C-80AA-23B52BF790F1}|FirstLab\\FirstLab.csproj|solutionrelative:firstlab\\views\\portfolio\\reference.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87208A3D-9832-474C-80AA-23B52BF790F1}|FirstLab\\FirstLab.csproj|D:\\coding\\.NET\\FirstLab\\firstlab\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87208A3D-9832-474C-80AA-23B52BF790F1}|FirstLab\\FirstLab.csproj|solutionrelative:firstlab\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87208A3D-9832-474C-80AA-23B52BF790F1}|FirstLab\\FirstLab.csproj|D:\\coding\\.NET\\FirstLab\\firstlab\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87208A3D-9832-474C-80AA-23B52BF790F1}|FirstLab\\FirstLab.csproj|solutionrelative:firstlab\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\coding\\.NET\\FirstLab\\FirstLab\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "FirstLab\\App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\coding\\.NET\\FirstLab\\FirstLab\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "FirstLab\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T07:36:21.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\coding\\.NET\\FirstLab\\FirstLab\\Views\\Portfolio\\Index.cshtml",
+              "RelativeDocumentMoniker": "FirstLab\\Views\\Portfolio\\Index.cshtml",
+              "ToolTip": "D:\\coding\\.NET\\FirstLab\\FirstLab\\Views\\Portfolio\\Index.cshtml",
+              "RelativeToolTip": "FirstLab\\Views\\Portfolio\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-28T07:59:31.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PortfolioController.cs",
+              "DocumentMoniker": "D:\\coding\\.NET\\FirstLab\\FirstLab\\Controllers\\PortfolioController.cs",
+              "RelativeDocumentMoniker": "FirstLab\\Controllers\\PortfolioController.cs",
+              "ToolTip": "D:\\coding\\.NET\\FirstLab\\FirstLab\\Controllers\\PortfolioController.cs",
+              "RelativeToolTip": "FirstLab\\Controllers\\PortfolioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T07:44:21.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Reference.cshtml",
+              "DocumentMoniker": "D:\\coding\\.NET\\FirstLab\\FirstLab\\Views\\Portfolio\\Reference.cshtml",
+              "RelativeDocumentMoniker": "FirstLab\\Views\\Portfolio\\Reference.cshtml",
+              "ToolTip": "D:\\coding\\.NET\\FirstLab\\FirstLab\\Views\\Portfolio\\Reference.cshtml",
+              "RelativeToolTip": "FirstLab\\Views\\Portfolio\\Reference.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-28T08:22:28.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Education.cshtml",
+              "DocumentMoniker": "D:\\coding\\.NET\\FirstLab\\FirstLab\\Views\\Portfolio\\Education.cshtml",
+              "RelativeDocumentMoniker": "FirstLab\\Views\\Portfolio\\Education.cshtml",
+              "ToolTip": "D:\\coding\\.NET\\FirstLab\\FirstLab\\Views\\Portfolio\\Education.cshtml",
+              "RelativeToolTip": "FirstLab\\Views\\Portfolio\\Education.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-28T08:08:32.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Projects.cshtml",
+              "DocumentMoniker": "D:\\coding\\.NET\\FirstLab\\FirstLab\\Views\\Portfolio\\Projects.cshtml",
+              "RelativeDocumentMoniker": "FirstLab\\Views\\Portfolio\\Projects.cshtml",
+              "ToolTip": "D:\\coding\\.NET\\FirstLab\\FirstLab\\Views\\Portfolio\\Projects.cshtml",
+              "RelativeToolTip": "FirstLab\\Views\\Portfolio\\Projects.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-28T08:15:10.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\coding\\.NET\\FirstLab\\FirstLab\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "FirstLab\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\coding\\.NET\\FirstLab\\FirstLab\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "FirstLab\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-28T07:46:34.342Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "D:\\coding\\.NET\\FirstLab\\FirstLab\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "FirstLab\\Views\\Home\\About.cshtml",
+              "ToolTip": "D:\\coding\\.NET\\FirstLab\\FirstLab\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "FirstLab\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-28T07:41:22.248Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
