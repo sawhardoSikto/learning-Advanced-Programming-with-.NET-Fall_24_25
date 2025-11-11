@@ -1,0 +1,36 @@
+﻿
+@{
+    ViewBag.Title = "Registration";
+}
+
+<h2>Registration Form </h2>
+
+<form action="" method="post">
+    <div>
+        <label>Name:</label>
+        <input type="text" name="Name" placeholder="Enter your name" />
+        <span class="text-danger">@Html.ValidationMessage("Name")</span>
+    </div>
+    <div>
+        <label>Username:</label>
+        <input type="text" name="Username" placeholder="Enter username" />
+        <span class="text-danger">@Html.ValidationMessage("Username")</span>
+    </div>
+    <div>
+        <label>ID:</label>
+        <input type="text" name="Id" placeholder="Enter ID" />
+        <span class="text-danger">@Html.ValidationMessage("Id")</span>
+    </div>
+    <div>
+        <label>Date of Birth:</label>
+        <input type="date" name="Dob" />
+        <span class="text-danger">@Html.ValidationMessage("Dob")</span>
+    </div>
+    <div>
+        <label>Email:</label>
+        <input type="email" name="Email" placeholder="Enter email" />
+        <span class="text-danger">@Html.ValidationMessage("Email")</span>
+    </div>
+    <br />
+    <button type="submit">Register</button>
+</form>

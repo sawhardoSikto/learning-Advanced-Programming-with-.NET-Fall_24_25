@@ -5,7 +5,10 @@
 
 <h2>Education</h2>
 <ul>
-    <li>HSC</li>
-    <li>SSC</li>
-    <li>JSC</li>
+    @foreach (var item in Model)
+    {
+        <li>
+            <strong>@item.CertificateName</strong> from <em>@item.Year</em>
+        </li>
+    }
 </ul>

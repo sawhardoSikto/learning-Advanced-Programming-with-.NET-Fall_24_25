@@ -1,37 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\coding\\.NET\\FirstLab\\",
+  "WorkspaceRootPath": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\FirstLab\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{87208A3D-9832-474C-80AA-23B52BF790F1}|FirstLab\\FirstLab.csproj|d:\\coding\\.net\\firstlab\\firstlab\\views\\portfolio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{87208A3D-9832-474C-80AA-23B52BF790F1}|FirstLab\\FirstLab.csproj|solutionrelative:firstlab\\views\\portfolio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87208A3D-9832-474C-80AA-23B52BF790F1}|FirstLab\\FirstLab.csproj|d:\\coding\\.net\\firstlab\\firstlab\\views\\portfolio\\reference.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{87208A3D-9832-474C-80AA-23B52BF790F1}|FirstLab\\FirstLab.csproj|solutionrelative:firstlab\\views\\portfolio\\reference.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87208A3D-9832-474C-80AA-23B52BF790F1}|FirstLab\\FirstLab.csproj|d:\\coding\\.net\\firstlab\\firstlab\\controllers\\portfoliocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{87208A3D-9832-474C-80AA-23B52BF790F1}|FirstLab\\FirstLab.csproj|D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\FirstLab\\firstlab\\controllers\\portfoliocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87208A3D-9832-474C-80AA-23B52BF790F1}|FirstLab\\FirstLab.csproj|solutionrelative:firstlab\\controllers\\portfoliocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87208A3D-9832-474C-80AA-23B52BF790F1}|FirstLab\\FirstLab.csproj|d:\\coding\\.net\\firstlab\\firstlab\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87208A3D-9832-474C-80AA-23B52BF790F1}|FirstLab\\FirstLab.csproj|solutionrelative:firstlab\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87208A3D-9832-474C-80AA-23B52BF790F1}|FirstLab\\FirstLab.csproj|d:\\coding\\.net\\firstlab\\firstlab\\views\\portfolio\\projects.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{87208A3D-9832-474C-80AA-23B52BF790F1}|FirstLab\\FirstLab.csproj|solutionrelative:firstlab\\views\\portfolio\\projects.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87208A3D-9832-474C-80AA-23B52BF790F1}|FirstLab\\FirstLab.csproj|d:\\coding\\.net\\firstlab\\firstlab\\views\\portfolio\\education.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{87208A3D-9832-474C-80AA-23B52BF790F1}|FirstLab\\FirstLab.csproj|D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\FirstLab\\firstlab\\views\\portfolio\\education.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{87208A3D-9832-474C-80AA-23B52BF790F1}|FirstLab\\FirstLab.csproj|solutionrelative:firstlab\\views\\portfolio\\education.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87208A3D-9832-474C-80AA-23B52BF790F1}|FirstLab\\FirstLab.csproj|d:\\coding\\.net\\firstlab\\firstlab\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{87208A3D-9832-474C-80AA-23B52BF790F1}|FirstLab\\FirstLab.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\firstlab\\firstlab\\models\\education.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87208A3D-9832-474C-80AA-23B52BF790F1}|FirstLab\\FirstLab.csproj|solutionrelative:firstlab\\models\\education.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87208A3D-9832-474C-80AA-23B52BF790F1}|FirstLab\\FirstLab.csproj|D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\FirstLab\\firstlab\\views\\portfolio\\projects.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87208A3D-9832-474C-80AA-23B52BF790F1}|FirstLab\\FirstLab.csproj|solutionrelative:firstlab\\views\\portfolio\\projects.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87208A3D-9832-474C-80AA-23B52BF790F1}|FirstLab\\FirstLab.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\firstlab\\firstlab\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87208A3D-9832-474C-80AA-23B52BF790F1}|FirstLab\\FirstLab.csproj|solutionrelative:firstlab\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87208A3D-9832-474C-80AA-23B52BF790F1}|FirstLab\\FirstLab.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\firstlab\\firstlab\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87208A3D-9832-474C-80AA-23B52BF790F1}|FirstLab\\FirstLab.csproj|solutionrelative:firstlab\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87208A3D-9832-474C-80AA-23B52BF790F1}|FirstLab\\FirstLab.csproj|D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\FirstLab\\firstlab\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{87208A3D-9832-474C-80AA-23B52BF790F1}|FirstLab\\FirstLab.csproj|solutionrelative:firstlab\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87208A3D-9832-474C-80AA-23B52BF790F1}|FirstLab\\FirstLab.csproj|D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\FirstLab\\firstlab\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87208A3D-9832-474C-80AA-23B52BF790F1}|FirstLab\\FirstLab.csproj|solutionrelative:firstlab\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87208A3D-9832-474C-80AA-23B52BF790F1}|FirstLab\\FirstLab.csproj|D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\FirstLab\\firstlab\\views\\portfolio\\reference.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87208A3D-9832-474C-80AA-23B52BF790F1}|FirstLab\\FirstLab.csproj|solutionrelative:firstlab\\views\\portfolio\\reference.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87208A3D-9832-474C-80AA-23B52BF790F1}|FirstLab\\FirstLab.csproj|D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\FirstLab\\firstlab\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{87208A3D-9832-474C-80AA-23B52BF790F1}|FirstLab\\FirstLab.csproj|solutionrelative:firstlab\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87208A3D-9832-474C-80AA-23B52BF790F1}|FirstLab\\FirstLab.csproj|d:\\coding\\.net\\firstlab\\firstlab\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{87208A3D-9832-474C-80AA-23B52BF790F1}|FirstLab\\FirstLab.csproj|D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\FirstLab\\firstlab\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{87208A3D-9832-474C-80AA-23B52BF790F1}|FirstLab\\FirstLab.csproj|solutionrelative:firstlab\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -42,56 +54,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Projects.cshtml",
-              "DocumentMoniker": "D:\\coding\\.NET\\FirstLab\\FirstLab\\Views\\Portfolio\\Projects.cshtml",
-              "RelativeDocumentMoniker": "FirstLab\\Views\\Portfolio\\Projects.cshtml",
-              "ToolTip": "D:\\coding\\.NET\\FirstLab\\FirstLab\\Views\\Portfolio\\Projects.cshtml",
-              "RelativeToolTip": "FirstLab\\Views\\Portfolio\\Projects.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-28T08:15:10.476Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\coding\\.NET\\FirstLab\\FirstLab\\Views\\Portfolio\\Index.cshtml",
-              "RelativeDocumentMoniker": "FirstLab\\Views\\Portfolio\\Index.cshtml",
-              "ToolTip": "D:\\coding\\.NET\\FirstLab\\FirstLab\\Views\\Portfolio\\Index.cshtml",
-              "RelativeToolTip": "FirstLab\\Views\\Portfolio\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-28T07:59:31.204Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "D:\\coding\\.NET\\FirstLab\\FirstLab\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "FirstLab\\Views\\_ViewStart.cshtml",
-              "ToolTip": "D:\\coding\\.NET\\FirstLab\\FirstLab\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "FirstLab\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-28T07:46:34.342Z",
+              "Title": "Project.cs",
+              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\FirstLab\\FirstLab\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "FirstLab\\Models\\Project.cs",
+              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\FirstLab\\FirstLab\\Models\\Project.cs",
+              "RelativeToolTip": "FirstLab\\Models\\Project.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T08:05:52.427Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Education.cs",
+              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\FirstLab\\FirstLab\\Models\\Education.cs",
+              "RelativeDocumentMoniker": "FirstLab\\Models\\Education.cs",
+              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\FirstLab\\FirstLab\\Models\\Education.cs",
+              "RelativeToolTip": "FirstLab\\Models\\Education.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T08:02:42.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\FirstLab\\FirstLab\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "FirstLab\\App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\FirstLab\\FirstLab\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "FirstLab\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvxIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T07:36:21.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "PortfolioController.cs",
-              "DocumentMoniker": "D:\\coding\\.NET\\FirstLab\\FirstLab\\Controllers\\PortfolioController.cs",
+              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\FirstLab\\FirstLab\\Controllers\\PortfolioController.cs",
               "RelativeDocumentMoniker": "FirstLab\\Controllers\\PortfolioController.cs",
-              "ToolTip": "D:\\coding\\.NET\\FirstLab\\FirstLab\\Controllers\\PortfolioController.cs",
-              "RelativeToolTip": "FirstLab\\Controllers\\PortfolioController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
+              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\FirstLab\\FirstLab\\Controllers\\PortfolioController.cs*",
+              "RelativeToolTip": "FirstLab\\Controllers\\PortfolioController.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-28T07:44:21.667Z",
               "EditorCaption": ""
@@ -99,58 +115,89 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "RouteConfig.cs",
-              "DocumentMoniker": "D:\\coding\\.NET\\FirstLab\\FirstLab\\App_Start\\RouteConfig.cs",
-              "RelativeDocumentMoniker": "FirstLab\\App_Start\\RouteConfig.cs",
-              "ToolTip": "D:\\coding\\.NET\\FirstLab\\FirstLab\\App_Start\\RouteConfig.cs",
-              "RelativeToolTip": "FirstLab\\App_Start\\RouteConfig.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAmwBIAAABJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T07:36:21.795Z",
+              "Title": "Projects.cshtml",
+              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\FirstLab\\FirstLab\\Views\\Portfolio\\Projects.cshtml",
+              "RelativeDocumentMoniker": "FirstLab\\Views\\Portfolio\\Projects.cshtml",
+              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\FirstLab\\FirstLab\\Views\\Portfolio\\Projects.cshtml",
+              "RelativeToolTip": "FirstLab\\Views\\Portfolio\\Projects.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-28T08:15:10.476Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Reference.cshtml",
-              "DocumentMoniker": "D:\\coding\\.NET\\FirstLab\\FirstLab\\Views\\Portfolio\\Reference.cshtml",
-              "RelativeDocumentMoniker": "FirstLab\\Views\\Portfolio\\Reference.cshtml",
-              "ToolTip": "D:\\coding\\.NET\\FirstLab\\FirstLab\\Views\\Portfolio\\Reference.cshtml",
-              "RelativeToolTip": "FirstLab\\Views\\Portfolio\\Reference.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-28T08:22:28.623Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "Education.cshtml",
-              "DocumentMoniker": "D:\\coding\\.NET\\FirstLab\\FirstLab\\Views\\Portfolio\\Education.cshtml",
+              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\FirstLab\\FirstLab\\Views\\Portfolio\\Education.cshtml",
               "RelativeDocumentMoniker": "FirstLab\\Views\\Portfolio\\Education.cshtml",
-              "ToolTip": "D:\\coding\\.NET\\FirstLab\\FirstLab\\Views\\Portfolio\\Education.cshtml",
+              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\FirstLab\\FirstLab\\Views\\Portfolio\\Education.cshtml",
               "RelativeToolTip": "FirstLab\\Views\\Portfolio\\Education.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvwsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-28T08:08:32.08Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\FirstLab\\FirstLab\\Global.asax.cs",
+              "RelativeDocumentMoniker": "FirstLab\\Global.asax.cs",
+              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\FirstLab\\FirstLab\\Global.asax.cs",
+              "RelativeToolTip": "FirstLab\\Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T17:14:59.575Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
+              "Title": "Reference.cshtml",
+              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\FirstLab\\FirstLab\\Views\\Portfolio\\Reference.cshtml",
+              "RelativeDocumentMoniker": "FirstLab\\Views\\Portfolio\\Reference.cshtml",
+              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\FirstLab\\FirstLab\\Views\\Portfolio\\Reference.cshtml",
+              "RelativeToolTip": "FirstLab\\Views\\Portfolio\\Reference.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-28T08:22:28.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\FirstLab\\FirstLab\\Web.config",
+              "RelativeDocumentMoniker": "FirstLab\\Web.config",
+              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\FirstLab\\FirstLab\\Web.config",
+              "RelativeToolTip": "FirstLab\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-11-02T17:15:16.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\FirstLab\\FirstLab\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "FirstLab\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\FirstLab\\FirstLab\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "FirstLab\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-28T07:46:34.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "About.cshtml",
-              "DocumentMoniker": "D:\\coding\\.NET\\FirstLab\\FirstLab\\Views\\Home\\About.cshtml",
+              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\FirstLab\\FirstLab\\Views\\Home\\About.cshtml",
               "RelativeDocumentMoniker": "FirstLab\\Views\\Home\\About.cshtml",
-              "ToolTip": "D:\\coding\\.NET\\FirstLab\\FirstLab\\Views\\Home\\About.cshtml",
+              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\FirstLab\\FirstLab\\Views\\Home\\About.cshtml",
               "RelativeToolTip": "FirstLab\\Views\\Home\\About.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-28T07:41:22.248Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-28T07:41:22.248Z"
             }
           ]
         }
