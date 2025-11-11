@@ -27,6 +27,7 @@ namespace SecondLab.Models
 
         [Required(ErrorMessage = "Date of Birth is required")]
         [DataType(DataType.Date)]
+        [ValidDOB]
         
         public DateTime Dob { get; set; }
 
