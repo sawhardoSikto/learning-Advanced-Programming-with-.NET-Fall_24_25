@@ -3,35 +3,35 @@
   "WorkspaceRootPath": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\SecondLab\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6D061681-437E-43F1-844F-57B91FE89ACA}|SecondLab\\SecondLab.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\secondlab\\secondlab\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6D061681-437E-43F1-844F-57B91FE89ACA}|SecondLab\\SecondLab.csproj|solutionrelative:secondlab\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6D061681-437E-43F1-844F-57B91FE89ACA}|SecondLab\\SecondLab.csproj|D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\SecondLab\\secondlab\\views\\login\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D061681-437E-43F1-844F-57B91FE89ACA}|SecondLab\\SecondLab.csproj|solutionrelative:secondlab\\views\\login\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D061681-437E-43F1-844F-57B91FE89ACA}|SecondLab\\SecondLab.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\secondlab\\secondlab\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D061681-437E-43F1-844F-57B91FE89ACA}|SecondLab\\SecondLab.csproj|solutionrelative:secondlab\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6D061681-437E-43F1-844F-57B91FE89ACA}|SecondLab\\SecondLab.csproj|D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\SecondLab\\secondlab\\validation\\validemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D061681-437E-43F1-844F-57B91FE89ACA}|SecondLab\\SecondLab.csproj|solutionrelative:secondlab\\validation\\validemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6D061681-437E-43F1-844F-57B91FE89ACA}|SecondLab\\SecondLab.csproj|D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\SecondLab\\secondlab\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D061681-437E-43F1-844F-57B91FE89ACA}|SecondLab\\SecondLab.csproj|solutionrelative:secondlab\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D061681-437E-43F1-844F-57B91FE89ACA}|SecondLab\\SecondLab.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\secondlab\\secondlab\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D061681-437E-43F1-844F-57B91FE89ACA}|SecondLab\\SecondLab.csproj|solutionrelative:secondlab\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6D061681-437E-43F1-844F-57B91FE89ACA}|SecondLab\\SecondLab.csproj|D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\SecondLab\\secondlab\\models\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D061681-437E-43F1-844F-57B91FE89ACA}|SecondLab\\SecondLab.csproj|solutionrelative:secondlab\\models\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D061681-437E-43F1-844F-57B91FE89ACA}|SecondLab\\SecondLab.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\secondlab\\secondlab\\validation\\validemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D061681-437E-43F1-844F-57B91FE89ACA}|SecondLab\\SecondLab.csproj|solutionrelative:secondlab\\validation\\validemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6D061681-437E-43F1-844F-57B91FE89ACA}|SecondLab\\SecondLab.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\secondlab\\secondlab\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D061681-437E-43F1-844F-57B91FE89ACA}|SecondLab\\SecondLab.csproj|solutionrelative:secondlab\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D061681-437E-43F1-844F-57B91FE89ACA}|SecondLab\\SecondLab.csproj|D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\SecondLab\\secondlab\\views\\login\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6D061681-437E-43F1-844F-57B91FE89ACA}|SecondLab\\SecondLab.csproj|solutionrelative:secondlab\\views\\login\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6D061681-437E-43F1-844F-57B91FE89ACA}|SecondLab\\SecondLab.csproj|D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\SecondLab\\secondlab\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D061681-437E-43F1-844F-57B91FE89ACA}|SecondLab\\SecondLab.csproj|solutionrelative:secondlab\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D061681-437E-43F1-844F-57B91FE89ACA}|SecondLab\\SecondLab.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\secondlab\\secondlab\\validation\\validdob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6D061681-437E-43F1-844F-57B91FE89ACA}|SecondLab\\SecondLab.csproj|D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\SecondLab\\secondlab\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D061681-437E-43F1-844F-57B91FE89ACA}|SecondLab\\SecondLab.csproj|solutionrelative:secondlab\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D061681-437E-43F1-844F-57B91FE89ACA}|SecondLab\\SecondLab.csproj|D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\SecondLab\\secondlab\\validation\\validdob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D061681-437E-43F1-844F-57B91FE89ACA}|SecondLab\\SecondLab.csproj|solutionrelative:secondlab\\validation\\validdob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -42,17 +42,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "ValidEmail.cs",
               "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\SecondLab\\SecondLab\\Validation\\ValidEmail.cs",
               "RelativeDocumentMoniker": "SecondLab\\Validation\\ValidEmail.cs",
               "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\SecondLab\\SecondLab\\Validation\\ValidEmail.cs",
               "RelativeToolTip": "SecondLab\\Validation\\ValidEmail.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAvwBQAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-11T17:03:07.153Z",
               "EditorCaption": ""
@@ -67,12 +67,11 @@
               "RelativeToolTip": "SecondLab\\Validation\\ValidDOB.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T17:02:44.168Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-11T17:02:44.168Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\SecondLab\\SecondLab\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "SecondLab\\Controllers\\HomeController.cs",
@@ -80,12 +79,11 @@
               "RelativeToolTip": "SecondLab\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T16:58:19.59Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-11T16:58:19.59Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Login.cs",
               "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\SecondLab\\SecondLab\\Models\\Login.cs",
               "RelativeDocumentMoniker": "SecondLab\\Models\\Login.cs",
@@ -93,12 +91,11 @@
               "RelativeToolTip": "SecondLab\\Models\\Login.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T16:48:18.96Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-11T16:48:18.96Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Login.cshtml",
               "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\SecondLab\\SecondLab\\Views\\Login\\Login.cshtml",
               "RelativeDocumentMoniker": "SecondLab\\Views\\Login\\Login.cshtml",
@@ -111,26 +108,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Registration.cs",
               "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\SecondLab\\SecondLab\\Models\\Registration.cs",
               "RelativeDocumentMoniker": "SecondLab\\Models\\Registration.cs",
               "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\SecondLab\\SecondLab\\Models\\Registration.cs",
               "RelativeToolTip": "SecondLab\\Models\\Registration.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAwwCkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-11T07:19:26.049Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Registration.cshtml",
               "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\SecondLab\\SecondLab\\Views\\Login\\Registration.cshtml",
               "RelativeDocumentMoniker": "SecondLab\\Views\\Login\\Registration.cshtml",
               "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\SecondLab\\SecondLab\\Views\\Login\\Registration.cshtml",
               "RelativeToolTip": "SecondLab\\Views\\Login\\Registration.cshtml",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAACMAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-11T07:07:09.617Z",
               "EditorCaption": ""

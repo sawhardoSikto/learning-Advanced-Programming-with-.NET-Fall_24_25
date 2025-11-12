@@ -5,25 +5,29 @@
 
 <h2>Registration Form </h2>
 
+
+
+
+
 <form action="" method="post">
     <div>
         <label>Name:</label>
-        <input type="text" name="Name" placeholder="Enter your name" />
+        <input type="text" name="Name" value="@Model.Name" placeholder="Enter your name" />
         <span class="text-danger">@Html.ValidationMessage("Name")</span>
     </div>
     <div>
         <label>Username:</label>
-        <input type="text" name="Username" placeholder="Enter username" />
+        <input type="text" name="Username" value="@Model.Username" placeholder="Enter username" />
         <span class="text-danger">@Html.ValidationMessage("Username")</span>
     </div>
     <div>
         <label>ID:</label>
-        <input type="text" name="Id" placeholder="Enter ID" />
+        <input type="text" name="Id" value="@Model.Id" placeholder="Enter ID" />
         <span class="text-danger">@Html.ValidationMessage("Id")</span>
     </div>
     <div>
         <label>Date of Birth:</label>
-        <input type="date" name="Dob" />
+        <input type="date" name="Dob" value="@Model.Dob.ToString("yyyy-MM-dd")" />
         <span class="text-danger">@Html.ValidationMessage("Dob")</span>
     </div>
     <div>
