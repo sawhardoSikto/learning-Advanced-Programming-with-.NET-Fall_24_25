@@ -11,25 +11,37 @@ namespace Crud.Controllers
     {
         MyDBEntities db = new MyDBEntities();
         // GET: Student
-        public ActionResult Index()
+
+        [HttpGet]
+        public ActionResult Create()
         {
+
             return View();
+        }
+
+        [HttpPost]
+        public ActionResult Create(Student s)
+        {
+            if (ModelState.IsValid)
+            {
+                db.Students.Add(s);
+                db.SaveChanges();
+                return RedirectToAction("List");
+            }
+            return View(s);
         }
         public ActionResult List()
         {
-            Student student = new Student()
-            {
-                Name = "John Doe",
-                Gender = "male",
-                Email = "siktobiswas@gmail.com "
-            };
-            db.Students.Add(student);
-            db.SaveChanges();
+           
+           
+         
+
 
             // Return full student list to the view
             var data = db.Students.ToList();
 
             return View(data);
         }
+        
     }
 }
