@@ -1,0 +1,23 @@
+﻿
+@{
+    ViewBag.Title = "Project";
+}
+
+<h2>Project</h2>
+<table class="table">
+    <tr>
+        <th>Title</th>
+        <th>Name</th>
+        <th>Description</th>
+      
+        
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Title</td>
+            <td>@item.Name</td>
+            <td>@item.Description</td>
+        </tr>
+    }
+</table>

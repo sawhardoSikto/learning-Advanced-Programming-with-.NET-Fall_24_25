@@ -1,0 +1,19 @@
+﻿
+@{
+    ViewBag.Title = "Education";
+}
+
+<h2>Education</h2>
+
+<ul>
+    @foreach (var item in Model)
+    {
+        <li>
+            <strong>@item.CertificateName</strong> from @item.Institution (@item.YearOfCompletion)
+
+        </li>
+
+    }
+
+</ul>
+
