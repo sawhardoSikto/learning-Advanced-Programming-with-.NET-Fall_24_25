@@ -3,35 +3,35 @@
   "WorkspaceRootPath": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4EE8C8C3-8849-4440-8CDB-5E01FB6B3407}|mid1\\mid1.csproj|D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid1\\mid1\\controllers\\portfoliocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE8C8C3-8849-4440-8CDB-5E01FB6B3407}|mid1\\mid1.csproj|solutionrelative:mid1\\controllers\\portfoliocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4EE8C8C3-8849-4440-8CDB-5E01FB6B3407}|mid1\\mid1.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\mid1\\mid1\\views\\portfolio\\reference.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4EE8C8C3-8849-4440-8CDB-5E01FB6B3407}|mid1\\mid1.csproj|solutionrelative:mid1\\views\\portfolio\\reference.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4EE8C8C3-8849-4440-8CDB-5E01FB6B3407}|mid1\\mid1.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\mid1\\mid1\\views\\portfolio\\project.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{4EE8C8C3-8849-4440-8CDB-5E01FB6B3407}|mid1\\mid1.csproj|D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid1\\mid1\\views\\portfolio\\project.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4EE8C8C3-8849-4440-8CDB-5E01FB6B3407}|mid1\\mid1.csproj|solutionrelative:mid1\\views\\portfolio\\project.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4EE8C8C3-8849-4440-8CDB-5E01FB6B3407}|mid1\\mid1.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\mid1\\mid1\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4EE8C8C3-8849-4440-8CDB-5E01FB6B3407}|mid1\\mid1.csproj|D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid1\\mid1\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4EE8C8C3-8849-4440-8CDB-5E01FB6B3407}|mid1\\mid1.csproj|solutionrelative:mid1\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4EE8C8C3-8849-4440-8CDB-5E01FB6B3407}|mid1\\mid1.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\mid1\\mid1\\controllers\\portfoliocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4EE8C8C3-8849-4440-8CDB-5E01FB6B3407}|mid1\\mid1.csproj|solutionrelative:mid1\\controllers\\portfoliocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4EE8C8C3-8849-4440-8CDB-5E01FB6B3407}|mid1\\mid1.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\mid1\\mid1\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4EE8C8C3-8849-4440-8CDB-5E01FB6B3407}|mid1\\mid1.csproj|D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid1\\mid1\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4EE8C8C3-8849-4440-8CDB-5E01FB6B3407}|mid1\\mid1.csproj|solutionrelative:mid1\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4EE8C8C3-8849-4440-8CDB-5E01FB6B3407}|mid1\\mid1.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\mid1\\mid1\\views\\portfolio\\education.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{4EE8C8C3-8849-4440-8CDB-5E01FB6B3407}|mid1\\mid1.csproj|D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid1\\mid1\\views\\portfolio\\education.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4EE8C8C3-8849-4440-8CDB-5E01FB6B3407}|mid1\\mid1.csproj|solutionrelative:mid1\\views\\portfolio\\education.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4EE8C8C3-8849-4440-8CDB-5E01FB6B3407}|mid1\\mid1.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\mid1\\mid1\\models\\education.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4EE8C8C3-8849-4440-8CDB-5E01FB6B3407}|mid1\\mid1.csproj|D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid1\\mid1\\models\\education.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4EE8C8C3-8849-4440-8CDB-5E01FB6B3407}|mid1\\mid1.csproj|solutionrelative:mid1\\models\\education.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4EE8C8C3-8849-4440-8CDB-5E01FB6B3407}|mid1\\mid1.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\mid1\\mid1\\views\\portfolio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{4EE8C8C3-8849-4440-8CDB-5E01FB6B3407}|mid1\\mid1.csproj|D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid1\\mid1\\views\\portfolio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4EE8C8C3-8849-4440-8CDB-5E01FB6B3407}|mid1\\mid1.csproj|solutionrelative:mid1\\views\\portfolio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -42,24 +42,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Reference.cshtml",
               "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid1\\mid1\\Views\\Portfolio\\Reference.cshtml",
               "RelativeDocumentMoniker": "mid1\\Views\\Portfolio\\Reference.cshtml",
               "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid1\\mid1\\Views\\Portfolio\\Reference.cshtml",
               "RelativeToolTip": "mid1\\Views\\Portfolio\\Reference.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-28T14:59:24.715Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Project.cshtml",
               "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid1\\mid1\\Views\\Portfolio\\Project.cshtml",
               "RelativeDocumentMoniker": "mid1\\Views\\Portfolio\\Project.cshtml",
@@ -67,12 +67,11 @@
               "RelativeToolTip": "mid1\\Views\\Portfolio\\Project.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-28T14:36:53.006Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-28T14:36:53.006Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Project.cs",
               "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid1\\mid1\\Models\\Project.cs",
               "RelativeDocumentMoniker": "mid1\\Models\\Project.cs",
@@ -80,8 +79,7 @@
               "RelativeToolTip": "mid1\\Models\\Project.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T14:28:58.636Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-28T14:28:58.636Z"
             },
             {
               "$type": "Document",
@@ -93,8 +91,7 @@
               "RelativeToolTip": "mid1\\Models\\Education.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T10:54:34.678Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-28T10:54:34.678Z"
             },
             {
               "$type": "Document",
@@ -106,8 +103,7 @@
               "RelativeToolTip": "mid1\\Views\\Portfolio\\Education.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-28T10:52:50.282Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-28T10:52:50.282Z"
             },
             {
               "$type": "Document",
@@ -119,8 +115,7 @@
               "RelativeToolTip": "mid1\\App_Start\\RouteConfig.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T10:47:13.93Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-28T10:47:13.93Z"
             },
             {
               "$type": "Document",
@@ -132,18 +127,17 @@
               "RelativeToolTip": "mid1\\Views\\Portfolio\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-28T10:41:25.348Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-28T10:41:25.348Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "PortfolioController.cs",
               "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid1\\mid1\\Controllers\\PortfolioController.cs",
               "RelativeDocumentMoniker": "mid1\\Controllers\\PortfolioController.cs",
               "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid1\\mid1\\Controllers\\PortfolioController.cs",
               "RelativeToolTip": "mid1\\Controllers\\PortfolioController.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAASwEEAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAWwB8AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-28T10:41:12.489Z",
               "EditorCaption": ""

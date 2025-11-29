@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36616.10 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntroEF", "IntroEF\IntroEF.csproj", "{1170937E-F198-4366-AFA6-8A544182461E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1170937E-F198-4366-AFA6-8A544182461E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1170937E-F198-4366-AFA6-8A544182461E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1170937E-F198-4366-AFA6-8A544182461E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1170937E-F198-4366-AFA6-8A544182461E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7C0D75B-56BB-42E1-9B8D-C58B524551E1}
+	EndGlobalSection
+EndGlobal

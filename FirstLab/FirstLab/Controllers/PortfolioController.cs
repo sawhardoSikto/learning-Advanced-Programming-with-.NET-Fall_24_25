@@ -53,7 +53,8 @@ namespace FirstLab.Controllers
                 
         }
         public ActionResult Reference()
-        {
+        {   string msg="Hello from Reference Action";
+            ViewBag.refer = msg;
             return View();
         }
     }

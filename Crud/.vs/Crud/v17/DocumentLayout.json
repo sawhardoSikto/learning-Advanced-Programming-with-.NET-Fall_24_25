@@ -3,40 +3,40 @@
   "WorkspaceRootPath": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\Crud\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{015E16E0-7534-4064-8196-953F61F7A318}|Crud\\Crud.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\crud\\crud\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{015E16E0-7534-4064-8196-953F61F7A318}|Crud\\Crud.csproj|solutionrelative:crud\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{015E16E0-7534-4064-8196-953F61F7A318}|Crud\\Crud.csproj|D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\Crud\\crud\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{015E16E0-7534-4064-8196-953F61F7A318}|Crud\\Crud.csproj|solutionrelative:crud\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{015E16E0-7534-4064-8196-953F61F7A318}|Crud\\Crud.csproj|D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\Crud\\Crud\\EF\\UMSModel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{015E16E0-7534-4064-8196-953F61F7A318}|Crud\\Crud.csproj|solutionrelative:Crud\\EF\\UMSModel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{015E16E0-7534-4064-8196-953F61F7A318}|Crud\\Crud.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\crud\\crud\\views\\student\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{015E16E0-7534-4064-8196-953F61F7A318}|Crud\\Crud.csproj|solutionrelative:crud\\views\\student\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{015E16E0-7534-4064-8196-953F61F7A318}|Crud\\Crud.csproj|D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\Crud\\crud\\ef\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{015E16E0-7534-4064-8196-953F61F7A318}|Crud\\Crud.csproj|solutionrelative:crud\\ef\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{015E16E0-7534-4064-8196-953F61F7A318}|Crud\\Crud.csproj|D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\Crud\\Crud\\Views\\Student\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{015E16E0-7534-4064-8196-953F61F7A318}|Crud\\Crud.csproj|solutionrelative:Crud\\Views\\Student\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{015E16E0-7534-4064-8196-953F61F7A318}|Crud\\Crud.csproj|D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\Crud\\crud\\ef\\umsmodel.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{015E16E0-7534-4064-8196-953F61F7A318}|Crud\\Crud.csproj|solutionrelative:crud\\ef\\umsmodel.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{015E16E0-7534-4064-8196-953F61F7A318}|Crud\\Crud.csproj|D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\Crud\\Crud\\EF\\Student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{015E16E0-7534-4064-8196-953F61F7A318}|Crud\\Crud.csproj|solutionrelative:Crud\\EF\\Student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{015E16E0-7534-4064-8196-953F61F7A318}|Crud\\Crud.csproj|D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\Crud\\crud\\ef\\umsmodel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{015E16E0-7534-4064-8196-953F61F7A318}|Crud\\Crud.csproj|solutionrelative:crud\\ef\\umsmodel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{015E16E0-7534-4064-8196-953F61F7A318}|Crud\\Crud.csproj|D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\Crud\\Crud\\EF\\UMSModel.Context.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{015E16E0-7534-4064-8196-953F61F7A318}|Crud\\Crud.csproj|solutionrelative:Crud\\EF\\UMSModel.Context.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{015E16E0-7534-4064-8196-953F61F7A318}|Crud\\Crud.csproj|D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\Crud\\crud\\ef\\umsmodel.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{015E16E0-7534-4064-8196-953F61F7A318}|Crud\\Crud.csproj|solutionrelative:crud\\ef\\umsmodel.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{015E16E0-7534-4064-8196-953F61F7A318}|Crud\\Crud.csproj|D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\Crud\\Crud\\EF\\UMSModel.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{015E16E0-7534-4064-8196-953F61F7A318}|Crud\\Crud.csproj|solutionrelative:Crud\\EF\\UMSModel.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{015E16E0-7534-4064-8196-953F61F7A318}|Crud\\Crud.csproj|D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\Crud\\crud\\ef\\umsmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
-      "RelativeMoniker": "D:0:0:{015E16E0-7534-4064-8196-953F61F7A318}|Crud\\Crud.csproj|solutionrelative:crud\\ef\\umsmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+      "AbsoluteMoniker": "D:0:0:{015E16E0-7534-4064-8196-953F61F7A318}|Crud\\Crud.csproj|D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\Crud\\Crud\\EF\\UMSModel.Context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{015E16E0-7534-4064-8196-953F61F7A318}|Crud\\Crud.csproj|solutionrelative:Crud\\EF\\UMSModel.Context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{015E16E0-7534-4064-8196-953F61F7A318}|Crud\\Crud.csproj|D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\Crud\\crud\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{015E16E0-7534-4064-8196-953F61F7A318}|Crud\\Crud.csproj|solutionrelative:crud\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{015E16E0-7534-4064-8196-953F61F7A318}|Crud\\Crud.csproj|D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\Crud\\Crud\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{015E16E0-7534-4064-8196-953F61F7A318}|Crud\\Crud.csproj|solutionrelative:Crud\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{015E16E0-7534-4064-8196-953F61F7A318}|Crud\\Crud.csproj|D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\Crud\\Crud\\Controllers\\StudentController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{015E16E0-7534-4064-8196-953F61F7A318}|Crud\\Crud.csproj|solutionrelative:Crud\\Controllers\\StudentController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,20 +46,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\Crud\\Crud\\Views\\Student\\Create.cshtml",
               "RelativeDocumentMoniker": "Crud\\Views\\Student\\Create.cshtml",
-              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\Crud\\Crud\\Views\\Student\\Create.cshtml*",
-              "RelativeToolTip": "Crud\\Views\\Student\\Create.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\Crud\\Crud\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "Crud\\Views\\Student\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-18T05:09:11.842Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-18T05:09:11.842Z"
             },
             {
               "$type": "Document",
@@ -75,20 +74,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "List.cshtml",
               "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\Crud\\Crud\\Views\\Student\\List.cshtml",
               "RelativeDocumentMoniker": "Crud\\Views\\Student\\List.cshtml",
               "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\Crud\\Crud\\Views\\Student\\List.cshtml",
               "RelativeToolTip": "Crud\\Views\\Student\\List.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-17T19:28:37.795Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "UMSModel.Context.tt",
               "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\Crud\\Crud\\EF\\UMSModel.Context.tt",
               "RelativeDocumentMoniker": "Crud\\EF\\UMSModel.Context.tt",
@@ -112,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "UMSModel.Context.cs",
               "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\Crud\\Crud\\EF\\UMSModel.Context.cs",
               "RelativeDocumentMoniker": "Crud\\EF\\UMSModel.Context.cs",
@@ -124,18 +123,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "UMSModel.edmx [Diagram1]",
               "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\Crud\\Crud\\EF\\UMSModel.edmx",
               "RelativeDocumentMoniker": "Crud\\EF\\UMSModel.edmx",
               "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\Crud\\Crud\\EF\\UMSModel.edmx [Diagram1]",
               "RelativeToolTip": "Crud\\EF\\UMSModel.edmx [Diagram1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2025-11-17T19:22:41.027Z"
+              "WhenOpened": "2025-11-17T19:22:41.027Z",
+              "EditorCaption": " [Diagram1]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "Web.config",
               "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\Crud\\Crud\\Web.config",
               "RelativeDocumentMoniker": "Crud\\Web.config",
@@ -148,16 +148,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "StudentController.cs",
               "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\Crud\\Crud\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "Crud\\Controllers\\StudentController.cs",
-              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\Crud\\Crud\\Controllers\\StudentController.cs*",
-              "RelativeToolTip": "Crud\\Controllers\\StudentController.cs*",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAUwCkAAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\Crud\\Crud\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Crud\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAqwC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T19:06:14.997Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-17T19:06:14.997Z"
             }
           ]
         }

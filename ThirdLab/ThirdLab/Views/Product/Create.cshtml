@@ -1,0 +1,29 @@
+﻿
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Create</h2>
+<form method="post" >
+<input type="text" name="Name"  placeholder="Name" />
+ <br />
+<input type="text" name="Price"  placeholder="Price" />
+    <br />
+
+<input type="text" name="Quantity"  placeholder="Quantity" />
+    <br/>
+
+ 
+<select name="CId" class="form-control">
+    <option disabled selected>-- Select Category --</option>
+    @foreach (var category in ViewBag.Catagories)
+    {
+        <option value="@category.Id">@category.Name</option>
+    }
+
+</select>
+    <br />
+
+
+<button class="btn btn-primary" value="Create" type="submit">Create</button>
+</form>

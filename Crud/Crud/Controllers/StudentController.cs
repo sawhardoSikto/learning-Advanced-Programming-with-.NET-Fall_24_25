@@ -30,18 +30,20 @@ namespace Crud.Controllers
             }
             return View(s);
         }
-        public ActionResult List()
+        public ActionResult List(string search)
         {
-           
-           
-         
+            if (search != null)
+            {
+                var filter = (from s in db.Students
+                              where s.Name.Contains(search)
+                              select s).ToList();
+                return View(filter);
+            }
 
-
-            // Return full student list to the view
             var data = db.Students.ToList();
-
             return View(data);
         }
-        
+
+
     }
 }
