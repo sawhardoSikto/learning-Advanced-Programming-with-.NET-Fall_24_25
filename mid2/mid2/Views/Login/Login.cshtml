@@ -3,6 +3,10 @@
     ViewBag.Title = "Login";
 }
 
+@if (TempData["Msg"] != null)
+{
+    <p class="alert alert-info">@TempData["Msg"]</p>
+}
 <h2>Login</h2>
 <form action="" method="post">
     <input type="text" name="Id" class="form-control" value="@Model.Id" placeholder="Id" />

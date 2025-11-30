@@ -1,4 +1,5 @@
-﻿using mid2.Models;
+﻿using mid2.EF;
+using mid2.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,6 +11,7 @@ namespace mid2.Controllers
 {
     public class LoginController : Controller
     {
+        ThirdLabEntities db = new ThirdLabEntities();
         // GET: Login
         public ActionResult Index()
         {
@@ -20,23 +22,38 @@ namespace mid2.Controllers
         public ActionResult Login()
         {
             
-            return View();
+            return View(new Login());
+
         }
         [HttpPost]
         public ActionResult Login(Login login)
         {
             if (ModelState.IsValid)
             {
+                // Database theke email & password match
+                var user = db.Users
+                             .FirstOrDefault(u => u.StudentId == login.Id
+                                               && u.Password == login.Password);
 
-                TempData["msg"] = "Login Successful";
-                return RedirectToAction("Index", "Home");
+                if (user != null)
+                {
+                    TempData["msg"] = "Login Successful";
+                    return RedirectToAction("Index", "Product");
+                }
+                else
+                {
+                    ViewBag.Error = "Invalid Email or Password";
+                }
             }
-            return View();
-        }
-                
 
-            
-        
+            return View(login);
+        }
+
+
+
+
+
+
 
 
         [HttpGet]
@@ -50,6 +67,17 @@ namespace mid2.Controllers
         {
             if(ModelState.IsValid)
             {
+                User u = new User();
+                u.Name = r.Name;
+                u.Password = r.Password;
+                u.StudentId = r.Id;
+                u.Email = r.Email;
+                u.Profession = r.Profession;
+                u.Gender = r.Gender;
+                u.Hobbies = string.Join(",", r.Hobbies);
+                db.Users.Add(u);
+                db.SaveChanges();
+                
                 TempData["msg"] = "Registration Successful";
                 return RedirectToAction("Login");
             }

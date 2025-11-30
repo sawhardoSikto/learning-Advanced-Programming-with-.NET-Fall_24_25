@@ -1,0 +1,34 @@
+﻿
+@{
+    ViewBag.Title = "Update";
+}
+
+<h2>Update</h2>
+
+<form method="post">
+    <input type="hidden" name="Id" value="@Model.Id" />
+    <input type="text" value="@Model.Name" name="Name" placeholder="Name" />
+    <br />
+    <input type="text" value="@Model.Price" name="Price" placeholder="Price" />
+    <br />
+
+    <input type="text" value="@Model.QTY" name="QTY" placeholder="Quantity" />
+    <br />
+    <select name="CId">
+        <option disabled>-- Select Category --</option>
+        @if (ViewBag.Catagories != null)
+        {
+            foreach (var item in ViewBag.Catagories)
+            {
+                <option value="@item.Id" @(item.Id == Model.CId ? "selected" : "")>@item.Name</option>
+            }
+        }
+
+
+    </select>
+    <br />
+
+
+    <button class="btn btn-primary" type="submit">Update</button>
+
+</form>

@@ -77,3 +77,7 @@ D:\coding\learning-Advanced-Programming-with-.NET-Fall_24_25\mid2\mid2\obj\Debug
 D:\coding\learning-Advanced-Programming-with-.NET-Fall_24_25\mid2\mid2\obj\Debug\mid2.csproj.Up2Date
 D:\coding\learning-Advanced-Programming-with-.NET-Fall_24_25\mid2\mid2\obj\Debug\mid2.dll
 D:\coding\learning-Advanced-Programming-with-.NET-Fall_24_25\mid2\mid2\obj\Debug\mid2.pdb
+D:\coding\learning-Advanced-Programming-with-.NET-Fall_24_25\mid2\mid2\bin\EntityFramework.dll
+D:\coding\learning-Advanced-Programming-with-.NET-Fall_24_25\mid2\mid2\bin\EntityFramework.SqlServer.dll
+D:\coding\learning-Advanced-Programming-with-.NET-Fall_24_25\mid2\mid2\bin\EntityFramework.xml
+D:\coding\learning-Advanced-Programming-with-.NET-Fall_24_25\mid2\mid2\bin\EntityFramework.SqlServer.xml
