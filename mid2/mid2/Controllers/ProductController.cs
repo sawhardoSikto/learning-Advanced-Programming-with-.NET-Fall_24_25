@@ -1,9 +1,11 @@
-﻿using mid2.EF;
+﻿using mid2.DTOs;
+using mid2.EF;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using System.Web.UI.WebControls.Expressions;
 
 namespace mid2.Controllers
 {
@@ -11,6 +13,40 @@ namespace mid2.Controllers
     {
         ThirdLabEntities db = new ThirdLabEntities();
         // GET: Product
+
+        public static ProductDTO Convert(Product p)
+        {
+            return new ProductDTO
+            {
+                Id = p.Id,
+                Name = p.Name,
+                Price = p.Price,
+                QTY = p.QTY,
+                CId = p.CId,
+                Catagory = p.Catagory
+            };
+        }
+        public static Product Convert(ProductDTO p)
+        {
+            return new Product
+            {
+                Id = p.Id,
+                Name = p.Name,
+                Price = p.Price,
+                QTY = p.QTY,
+                CId = p.CId,
+                Catagory = p.Catagory
+            };
+        }
+        public static List<ProductDTO> Convert(List<Product> products)
+        {
+            List<ProductDTO> productDTOs = new List<ProductDTO>();
+            foreach (var p in products)
+            {
+                productDTOs.Add(Convert(p));
+            }
+            return productDTOs;
+        }
         public ActionResult Index()
         {
             return View();
@@ -19,38 +55,53 @@ namespace mid2.Controllers
         [HttpGet]
         public ActionResult Create()
         {
+            
             var data = db.Catagories.ToList();
             ViewBag.Catagories = data; 
             return View();
         }
 
         [HttpPost]
-        public ActionResult Create(Product p)
+        public ActionResult Create(ProductDTO p)
 
         {
             if(ModelState.IsValid)
             {
-                db.Products.Add(p);
+                var pt = Convert(p);
+                db.Products.Add(pt);
                 db.SaveChanges();
                 TempData["msg"] = "Product Created Successfully";
                 return RedirectToAction("List");
             }
+            var data = db.Catagories.ToList();
+            ViewBag.Catagories = data;
             return View(p);
         }
-        public ActionResult List()
+        public ActionResult List(string search)
         {
+            if (search != null)
+            {
+                var filtered = (from pro in db.Products
+                                where pro.Name.Contains(search)
+                                select pro).ToList();
+                return View(filtered);
+
+            }
+            //var data = (from pro in db.Products     //ei line gulo diyeo kora jay
+            //            select pro).ToList();         //comment gulo ar ar nicher line eki
+            //return View(data);
             var products = db.Products.ToList();
-            return View(products);
+            return View(Convert(products));
         }
-        public ActionResult Details(Product p)
+        public ActionResult Details(int id)
         {
-            var product = db.Products.Find(p.Id);
+            var product = db.Products.Find(id);
             return View(product);
         }
         [HttpGet]
         public ActionResult Update(int id)
         {
-            ViewBag.Catagories = db.Catagories.ToList();
+           // ViewBag.Catagories = db.Catagories.ToList();
             var product = db.Products.Find(id);
             return View(product);
         }

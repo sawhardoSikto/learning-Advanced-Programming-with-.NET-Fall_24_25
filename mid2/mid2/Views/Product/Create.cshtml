@@ -6,8 +6,11 @@
 <h2>Create</h2>
 <form method="post">
     <input type="text" name="Name" placeholder="Name" />
+    <span class="alert-danger">@Html.ValidationMessage("Name")</span>
     <br />
     <input type="text" name="Price" placeholder="Price" />
+    <span class="alert-danger">@Html.ValidationMessage("Price")</span>
+
     <br />
 
     <input type="text" name="QTY" placeholder="Quantity" />

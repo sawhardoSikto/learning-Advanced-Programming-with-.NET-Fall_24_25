@@ -31,9 +31,9 @@ namespace mid2.Controllers
             if (ModelState.IsValid)
             {
                 // Database theke email & password match
-                var user = db.Users
-                             .FirstOrDefault(u => u.StudentId == login.Id
-                                               && u.Password == login.Password);
+                var user = (from u in db.Users
+                            where u.StudentId == login.Id && u.Password == login.Password
+                            select u).FirstOrDefault();
 
                 if (user != null)
                 {

@@ -3,19 +3,11 @@
   "WorkspaceRootPath": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1D5A8E9C-738B-441D-A836-38CDF003A798}|mid2\\mid2.csproj|D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\views\\product\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1D5A8E9C-738B-441D-A836-38CDF003A798}|mid2\\mid2.csproj|solutionrelative:mid2\\views\\product\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1D5A8E9C-738B-441D-A836-38CDF003A798}|mid2\\mid2.csproj|D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\ef\\ecommercemodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{1D5A8E9C-738B-441D-A836-38CDF003A798}|mid2\\mid2.csproj|solutionrelative:mid2\\ef\\ecommercemodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D5A8E9C-738B-441D-A836-38CDF003A798}|mid2\\mid2.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\mid2\\mid2\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1D5A8E9C-738B-441D-A836-38CDF003A798}|mid2\\mid2.csproj|solutionrelative:mid2\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D5A8E9C-738B-441D-A836-38CDF003A798}|mid2\\mid2.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\mid2\\mid2\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1D5A8E9C-738B-441D-A836-38CDF003A798}|mid2\\mid2.csproj|solutionrelative:mid2\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D5A8E9C-738B-441D-A836-38CDF003A798}|mid2\\mid2.csproj|D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1D5A8E9C-738B-441D-A836-38CDF003A798}|mid2\\mid2.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\mid2\\mid2\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1D5A8E9C-738B-441D-A836-38CDF003A798}|mid2\\mid2.csproj|solutionrelative:mid2\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -23,52 +15,80 @@
       "RelativeMoniker": "D:0:0:{1D5A8E9C-738B-441D-A836-38CDF003A798}|mid2\\mid2.csproj|solutionrelative:mid2\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D5A8E9C-738B-441D-A836-38CDF003A798}|mid2\\mid2.csproj|D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D5A8E9C-738B-441D-A836-38CDF003A798}|mid2\\mid2.csproj|solutionrelative:mid2\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1D5A8E9C-738B-441D-A836-38CDF003A798}|mid2\\mid2.csproj|D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D5A8E9C-738B-441D-A836-38CDF003A798}|mid2\\mid2.csproj|solutionrelative:mid2\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D5A8E9C-738B-441D-A836-38CDF003A798}|mid2\\mid2.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\mid2\\mid2\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1D5A8E9C-738B-441D-A836-38CDF003A798}|mid2\\mid2.csproj|solutionrelative:mid2\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1D5A8E9C-738B-441D-A836-38CDF003A798}|mid2\\mid2.csproj|D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\ef\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D5A8E9C-738B-441D-A836-38CDF003A798}|mid2\\mid2.csproj|solutionrelative:mid2\\ef\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D5A8E9C-738B-441D-A836-38CDF003A798}|mid2\\mid2.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\mid2\\mid2\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D5A8E9C-738B-441D-A836-38CDF003A798}|mid2\\mid2.csproj|solutionrelative:mid2\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D5A8E9C-738B-441D-A836-38CDF003A798}|mid2\\mid2.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\mid2\\mid2\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1D5A8E9C-738B-441D-A836-38CDF003A798}|mid2\\mid2.csproj|solutionrelative:mid2\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D5A8E9C-738B-441D-A836-38CDF003A798}|mid2\\mid2.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\mid2\\mid2\\ef\\ecommercemodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
-      "RelativeMoniker": "D:0:0:{1D5A8E9C-738B-441D-A836-38CDF003A798}|mid2\\mid2.csproj|solutionrelative:mid2\\ef\\ecommercemodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D5A8E9C-738B-441D-A836-38CDF003A798}|mid2\\mid2.csproj|D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1D5A8E9C-738B-441D-A836-38CDF003A798}|mid2\\mid2.csproj|solutionrelative:mid2\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1D5A8E9C-738B-441D-A836-38CDF003A798}|mid2\\mid2.csproj|D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\views\\product\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D5A8E9C-738B-441D-A836-38CDF003A798}|mid2\\mid2.csproj|solutionrelative:mid2\\views\\product\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1D5A8E9C-738B-441D-A836-38CDF003A798}|mid2\\mid2.csproj|D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\views\\login\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1D5A8E9C-738B-441D-A836-38CDF003A798}|mid2\\mid2.csproj|solutionrelative:mid2\\views\\login\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D5A8E9C-738B-441D-A836-38CDF003A798}|mid2\\mid2.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\mid2\\mid2\\ef\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D5A8E9C-738B-441D-A836-38CDF003A798}|mid2\\mid2.csproj|solutionrelative:mid2\\ef\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1D5A8E9C-738B-441D-A836-38CDF003A798}|mid2\\mid2.csproj|D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\models\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D5A8E9C-738B-441D-A836-38CDF003A798}|mid2\\mid2.csproj|solutionrelative:mid2\\models\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D5A8E9C-738B-441D-A836-38CDF003A798}|mid2\\mid2.csproj|D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{1D5A8E9C-738B-441D-A836-38CDF003A798}|mid2\\mid2.csproj|solutionrelative:mid2\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{1D5A8E9C-738B-441D-A836-38CDF003A798}|mid2\\mid2.csproj|D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D5A8E9C-738B-441D-A836-38CDF003A798}|mid2\\mid2.csproj|solutionrelative:mid2\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D5A8E9C-738B-441D-A836-38CDF003A798}|mid2\\mid2.csproj|D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\ef\\ecommercemodel.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D5A8E9C-738B-441D-A836-38CDF003A798}|mid2\\mid2.csproj|solutionrelative:mid2\\ef\\ecommercemodel.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D5A8E9C-738B-441D-A836-38CDF003A798}|mid2\\mid2.csproj|D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\ef\\catagory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D5A8E9C-738B-441D-A836-38CDF003A798}|mid2\\mid2.csproj|solutionrelative:mid2\\ef\\catagory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D5A8E9C-738B-441D-A836-38CDF003A798}|mid2\\mid2.csproj|D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\ef\\ecommercemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D5A8E9C-738B-441D-A836-38CDF003A798}|mid2\\mid2.csproj|solutionrelative:mid2\\ef\\ecommercemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D5A8E9C-738B-441D-A836-38CDF003A798}|mid2\\mid2.csproj|D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\validation\\validemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D5A8E9C-738B-441D-A836-38CDF003A798}|mid2\\mid2.csproj|solutionrelative:mid2\\validation\\validemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D5A8E9C-738B-441D-A836-38CDF003A798}|mid2\\mid2.csproj|D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\ef\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D5A8E9C-738B-441D-A836-38CDF003A798}|mid2\\mid2.csproj|solutionrelative:mid2\\ef\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1D5A8E9C-738B-441D-A836-38CDF003A798}|mid2\\mid2.csproj|D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1D5A8E9C-738B-441D-A836-38CDF003A798}|mid2\\mid2.csproj|solutionrelative:mid2\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D5A8E9C-738B-441D-A836-38CDF003A798}|mid2\\mid2.csproj|D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\models\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D5A8E9C-738B-441D-A836-38CDF003A798}|mid2\\mid2.csproj|solutionrelative:mid2\\models\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1D5A8E9C-738B-441D-A836-38CDF003A798}|mid2\\mid2.csproj|D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D5A8E9C-738B-441D-A836-38CDF003A798}|mid2\\mid2.csproj|solutionrelative:mid2\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D5A8E9C-738B-441D-A836-38CDF003A798}|mid2\\mid2.csproj|D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\validation\\validemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D5A8E9C-738B-441D-A836-38CDF003A798}|mid2\\mid2.csproj|solutionrelative:mid2\\validation\\validemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1D5A8E9C-738B-441D-A836-38CDF003A798}|mid2\\mid2.csproj|D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D5A8E9C-738B-441D-A836-38CDF003A798}|mid2\\mid2.csproj|solutionrelative:mid2\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D5A8E9C-738B-441D-A836-38CDF003A798}|mid2\\mid2.csproj|D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D5A8E9C-738B-441D-A836-38CDF003A798}|mid2\\mid2.csproj|solutionrelative:mid2\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D5A8E9C-738B-441D-A836-38CDF003A798}|mid2\\mid2.csproj|D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D5A8E9C-738B-441D-A836-38CDF003A798}|mid2\\mid2.csproj|solutionrelative:mid2\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D5A8E9C-738B-441D-A836-38CDF003A798}|mid2\\mid2.csproj|D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D5A8E9C-738B-441D-A836-38CDF003A798}|mid2\\mid2.csproj|solutionrelative:mid2\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D5A8E9C-738B-441D-A836-38CDF003A798}|mid2\\mid2.csproj|D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D5A8E9C-738B-441D-A836-38CDF003A798}|mid2\\mid2.csproj|solutionrelative:mid2\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D5A8E9C-738B-441D-A836-38CDF003A798}|mid2\\mid2.csproj|D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1D5A8E9C-738B-441D-A836-38CDF003A798}|mid2\\mid2.csproj|solutionrelative:mid2\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,167 +98,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\Views\\Product\\Delete.cshtml",
-              "RelativeDocumentMoniker": "mid2\\Views\\Product\\Delete.cshtml",
-              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\Views\\Product\\Delete.cshtml",
-              "RelativeToolTip": "mid2\\Views\\Product\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-30T14:05:54.212Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\Views\\Product\\Create.cshtml",
-              "RelativeDocumentMoniker": "mid2\\Views\\Product\\Create.cshtml",
-              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\Views\\Product\\Create.cshtml",
-              "RelativeToolTip": "mid2\\Views\\Product\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-29T18:52:46.02Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\Views\\Login\\Login.cshtml",
-              "RelativeDocumentMoniker": "mid2\\Views\\Login\\Login.cshtml",
-              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\Views\\Login\\Login.cshtml",
-              "RelativeToolTip": "mid2\\Views\\Login\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-29T16:48:14.596Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Registration.cshtml",
-              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\Views\\Login\\Registration.cshtml",
-              "RelativeDocumentMoniker": "mid2\\Views\\Login\\Registration.cshtml",
-              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\Views\\Login\\Registration.cshtml",
-              "RelativeToolTip": "mid2\\Views\\Login\\Registration.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-29T06:19:02.113Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "mid2\\Controllers\\LoginController.cs",
-              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "mid2\\Controllers\\LoginController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwC0AAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T06:14:39.315Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "List.cshtml",
-              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\Views\\Product\\List.cshtml",
-              "RelativeDocumentMoniker": "mid2\\Views\\Product\\List.cshtml",
-              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\Views\\Product\\List.cshtml",
-              "RelativeToolTip": "mid2\\Views\\Product\\List.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-29T18:54:52.497Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "RouteConfig.cs",
-              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\App_Start\\RouteConfig.cs",
-              "RelativeDocumentMoniker": "mid2\\App_Start\\RouteConfig.cs",
-              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\App_Start\\RouteConfig.cs",
-              "RelativeToolTip": "mid2\\App_Start\\RouteConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T08:36:54.951Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ValidEmail.cs",
-              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\Validation\\ValidEmail.cs",
-              "RelativeDocumentMoniker": "mid2\\Validation\\ValidEmail.cs",
-              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\Validation\\ValidEmail.cs",
-              "RelativeToolTip": "mid2\\Validation\\ValidEmail.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T09:27:57.012Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Login.cs",
-              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\Models\\Login.cs",
-              "RelativeDocumentMoniker": "mid2\\Models\\Login.cs",
-              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\Models\\Login.cs",
-              "RelativeToolTip": "mid2\\Models\\Login.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T15:58:50.546Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "mid2\\Controllers\\ProductController.cs",
-              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "mid2\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAQwFEAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T18:47:49.272Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\Views\\Product\\Update.cshtml",
-              "RelativeDocumentMoniker": "mid2\\Views\\Product\\Update.cshtml",
-              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\Views\\Product\\Update.cshtml",
-              "RelativeToolTip": "mid2\\Views\\Product\\Update.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-30T11:57:07.328Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\Views\\Product\\Index.cshtml",
-              "RelativeDocumentMoniker": "mid2\\Views\\Product\\Index.cshtml",
-              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\Views\\Product\\Index.cshtml",
-              "RelativeToolTip": "mid2\\Views\\Product\\Index.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-30T08:42:57.214Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "EcommerceModel.edmx [Diagram1]",
               "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\EF\\EcommerceModel.edmx",
               "RelativeDocumentMoniker": "mid2\\EF\\EcommerceModel.edmx",
@@ -250,20 +114,236 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\EF\\Product.cs",
+              "RelativeDocumentMoniker": "mid2\\EF\\Product.cs",
+              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\EF\\Product.cs",
+              "RelativeToolTip": "mid2\\EF\\Product.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwBcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T17:53:24.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "mid2\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "mid2\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAUwEoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T18:47:49.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\DTOs\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "mid2\\DTOs\\ProductDTO.cs",
+              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\DTOs\\ProductDTO.cs",
+              "RelativeToolTip": "mid2\\DTOs\\ProductDTO.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvw8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T07:31:11.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "mid2\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "mid2\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACwAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T06:14:39.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "mid2\\Views\\Product\\Create.cshtml",
+              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "mid2\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-29T18:52:46.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\Views\\Product\\List.cshtml",
+              "RelativeDocumentMoniker": "mid2\\Views\\Product\\List.cshtml",
+              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\Views\\Product\\List.cshtml",
+              "RelativeToolTip": "mid2\\Views\\Product\\List.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvyIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-29T18:54:52.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Catagory.cs",
+              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\EF\\Catagory.cs",
+              "RelativeDocumentMoniker": "mid2\\EF\\Catagory.cs",
+              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\EF\\Catagory.cs",
+              "RelativeToolTip": "mid2\\EF\\Catagory.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T19:02:56.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EcommerceModel.cs",
+              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\EF\\EcommerceModel.cs",
+              "RelativeDocumentMoniker": "mid2\\EF\\EcommerceModel.cs",
+              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\EF\\EcommerceModel.cs",
+              "RelativeToolTip": "mid2\\EF\\EcommerceModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T05:27:41.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Registration.cshtml",
+              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\Views\\Login\\Registration.cshtml",
+              "RelativeDocumentMoniker": "mid2\\Views\\Login\\Registration.cshtml",
+              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\Views\\Login\\Registration.cshtml",
+              "RelativeToolTip": "mid2\\Views\\Login\\Registration.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-29T06:19:02.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Registration.cs",
+              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\Models\\Registration.cs",
+              "RelativeDocumentMoniker": "mid2\\Models\\Registration.cs",
+              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\Models\\Registration.cs",
+              "RelativeToolTip": "mid2\\Models\\Registration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T06:53:09.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EcommerceModel.Context.cs",
+              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\EF\\EcommerceModel.Context.cs",
+              "RelativeDocumentMoniker": "mid2\\EF\\EcommerceModel.Context.cs",
+              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\EF\\EcommerceModel.Context.cs",
+              "RelativeToolTip": "mid2\\EF\\EcommerceModel.Context.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T06:17:25.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\EF\\User.cs",
               "RelativeDocumentMoniker": "mid2\\EF\\User.cs",
               "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\EF\\User.cs",
               "RelativeToolTip": "mid2\\EF\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-30T08:39:18.681Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-30T08:39:18.681Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "mid2\\Models\\Login.cs",
+              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\Models\\Login.cs",
+              "RelativeToolTip": "mid2\\Models\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T15:58:50.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ValidEmail.cs",
+              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\Validation\\ValidEmail.cs",
+              "RelativeDocumentMoniker": "mid2\\Validation\\ValidEmail.cs",
+              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\Validation\\ValidEmail.cs",
+              "RelativeToolTip": "mid2\\Validation\\ValidEmail.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T09:27:57.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "mid2\\App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "mid2\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T08:36:54.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\Views\\Login\\Login.cshtml",
+              "RelativeDocumentMoniker": "mid2\\Views\\Login\\Login.cshtml",
+              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\Views\\Login\\Login.cshtml",
+              "RelativeToolTip": "mid2\\Views\\Login\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-29T16:48:14.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "mid2\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "mid2\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T14:05:54.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\Views\\Product\\Update.cshtml",
+              "RelativeDocumentMoniker": "mid2\\Views\\Product\\Update.cshtml",
+              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\Views\\Product\\Update.cshtml",
+              "RelativeToolTip": "mid2\\Views\\Product\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T11:57:07.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "mid2\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "mid2\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T08:42:57.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "Details.cshtml",
               "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\Views\\Product\\Details.cshtml",
               "RelativeDocumentMoniker": "mid2\\Views\\Product\\Details.cshtml",
@@ -271,25 +351,11 @@
               "RelativeToolTip": "mid2\\Views\\Product\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-30T10:57:11.475Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-30T10:57:11.475Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Registration.cs",
-              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\Models\\Registration.cs",
-              "RelativeDocumentMoniker": "mid2\\Models\\Registration.cs",
-              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\Models\\Registration.cs",
-              "RelativeToolTip": "mid2\\Models\\Registration.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAA3wCUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T06:53:09.974Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 21,
               "Title": "Web.config",
               "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\mid2\\mid2\\Web.config",
               "RelativeDocumentMoniker": "mid2\\Web.config",
