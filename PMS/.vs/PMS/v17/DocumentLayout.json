@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\PMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B21275-EA25-44EE-BFFD-F8EBA7AF7203}|PMS\\PMS.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\pms\\pms\\views\\registration\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6B21275-EA25-44EE-BFFD-F8EBA7AF7203}|PMS\\PMS.csproj|solutionrelative:pms\\views\\registration\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B21275-EA25-44EE-BFFD-F8EBA7AF7203}|PMS\\PMS.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\pms\\pms\\customvalidation\\validusername.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6B21275-EA25-44EE-BFFD-F8EBA7AF7203}|PMS\\PMS.csproj|solutionrelative:pms\\customvalidation\\validusername.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B21275-EA25-44EE-BFFD-F8EBA7AF7203}|PMS\\PMS.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\pms\\pms\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6B21275-EA25-44EE-BFFD-F8EBA7AF7203}|PMS\\PMS.csproj|solutionrelative:pms\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B21275-EA25-44EE-BFFD-F8EBA7AF7203}|PMS\\PMS.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\pms\\pms\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6B21275-EA25-44EE-BFFD-F8EBA7AF7203}|PMS\\PMS.csproj|solutionrelative:pms\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B21275-EA25-44EE-BFFD-F8EBA7AF7203}|PMS\\PMS.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\pms\\pms\\ef\\pmsmodel.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6B21275-EA25-44EE-BFFD-F8EBA7AF7203}|PMS\\PMS.csproj|solutionrelative:pms\\ef\\pmsmodel.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B21275-EA25-44EE-BFFD-F8EBA7AF7203}|PMS\\PMS.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\pms\\pms\\ef\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6B21275-EA25-44EE-BFFD-F8EBA7AF7203}|PMS\\PMS.csproj|solutionrelative:pms\\ef\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B21275-EA25-44EE-BFFD-F8EBA7AF7203}|PMS\\PMS.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\pms\\pms\\ef\\pmsmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{E6B21275-EA25-44EE-BFFD-F8EBA7AF7203}|PMS\\PMS.csproj|solutionrelative:pms\\ef\\pmsmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B21275-EA25-44EE-BFFD-F8EBA7AF7203}|PMS\\PMS.csproj|D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\PMS\\pms\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E6B21275-EA25-44EE-BFFD-F8EBA7AF7203}|PMS\\PMS.csproj|solutionrelative:pms\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\PMS\\PMS\\EF\\Product.cs",
+              "RelativeDocumentMoniker": "PMS\\EF\\Product.cs",
+              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\PMS\\PMS\\EF\\Product.cs",
+              "RelativeToolTip": "PMS\\EF\\Product.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T20:02:04.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ValidUserName.cs",
+              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\PMS\\PMS\\CustomValidation\\ValidUserName.cs",
+              "RelativeDocumentMoniker": "PMS\\CustomValidation\\ValidUserName.cs",
+              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\PMS\\PMS\\CustomValidation\\ValidUserName.cs",
+              "RelativeToolTip": "PMS\\CustomValidation\\ValidUserName.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T19:47:50.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\PMS\\PMS\\Views\\Registration\\Register.cshtml",
+              "RelativeDocumentMoniker": "PMS\\Views\\Registration\\Register.cshtml",
+              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\PMS\\PMS\\Views\\Registration\\Register.cshtml",
+              "RelativeToolTip": "PMS\\Views\\Registration\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-08T19:39:24.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PMSModel.Context.cs",
+              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\PMS\\PMS\\EF\\PMSModel.Context.cs",
+              "RelativeDocumentMoniker": "PMS\\EF\\PMSModel.Context.cs",
+              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\PMS\\PMS\\EF\\PMSModel.Context.cs",
+              "RelativeToolTip": "PMS\\EF\\PMSModel.Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T19:23:23.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegistrationController.cs",
+              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\PMS\\PMS\\Controllers\\RegistrationController.cs",
+              "RelativeDocumentMoniker": "PMS\\Controllers\\RegistrationController.cs",
+              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\PMS\\PMS\\Controllers\\RegistrationController.cs",
+              "RelativeToolTip": "PMS\\Controllers\\RegistrationController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAiwC0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T18:54:17.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerDTO.cs",
+              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\PMS\\PMS\\DTOs\\CustomerDTO.cs",
+              "RelativeDocumentMoniker": "PMS\\DTOs\\CustomerDTO.cs",
+              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\PMS\\PMS\\DTOs\\CustomerDTO.cs",
+              "RelativeToolTip": "PMS\\DTOs\\CustomerDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T18:42:37.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PMSModel.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\PMS\\PMS\\EF\\PMSModel.edmx",
+              "RelativeDocumentMoniker": "PMS\\EF\\PMSModel.edmx",
+              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\PMS\\PMS\\EF\\PMSModel.edmx [Diagram1]",
+              "RelativeToolTip": "PMS\\EF\\PMSModel.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-12-03T19:45:44.554Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\PMS\\PMS\\Web.config",
+              "RelativeDocumentMoniker": "PMS\\Web.config",
+              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\PMS\\PMS\\Web.config",
+              "RelativeToolTip": "PMS\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAC8AQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-12-03T19:36:59.034Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
