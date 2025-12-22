@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36616.10 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntroCoreDBFAPI", "IntroCoreDBFAPI\IntroCoreDBFAPI.csproj", "{866BFC53-E814-4B7D-B97D-21CF6A1F4B57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{866BFC53-E814-4B7D-B97D-21CF6A1F4B57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{866BFC53-E814-4B7D-B97D-21CF6A1F4B57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{866BFC53-E814-4B7D-B97D-21CF6A1F4B57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{866BFC53-E814-4B7D-B97D-21CF6A1F4B57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2A9F214-80BA-4009-A6E3-28D4EA96D14F}
+	EndGlobalSection
+EndGlobal

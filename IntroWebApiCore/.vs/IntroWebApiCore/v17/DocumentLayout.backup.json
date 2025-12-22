@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\IntroWebApiCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DA60650-CFC3-4471-9392-ED84DF61C739}|IntroWebApiCore\\IntroWebApiCore.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\introwebapicore\\introwebapicore\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DA60650-CFC3-4471-9392-ED84DF61C739}|IntroWebApiCore\\IntroWebApiCore.csproj|solutionrelative:introwebapicore\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DA60650-CFC3-4471-9392-ED84DF61C739}|IntroWebApiCore\\IntroWebApiCore.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\introwebapicore\\introwebapicore\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DA60650-CFC3-4471-9392-ED84DF61C739}|IntroWebApiCore\\IntroWebApiCore.csproj|solutionrelative:introwebapicore\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\IntroWebApiCore\\IntroWebApiCore\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "IntroWebApiCore\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\IntroWebApiCore\\IntroWebApiCore\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "IntroWebApiCore\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T17:11:56.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentDTO.cs",
+              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\IntroWebApiCore\\IntroWebApiCore\\DTOs\\StudentDTO.cs",
+              "RelativeDocumentMoniker": "IntroWebApiCore\\DTOs\\StudentDTO.cs",
+              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\IntroWebApiCore\\IntroWebApiCore\\DTOs\\StudentDTO.cs",
+              "RelativeToolTip": "IntroWebApiCore\\DTOs\\StudentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T17:08:44.916Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

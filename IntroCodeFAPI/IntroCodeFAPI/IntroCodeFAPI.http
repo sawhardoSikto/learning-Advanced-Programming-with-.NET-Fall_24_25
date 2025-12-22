@@ -1,0 +1,6 @@
+@IntroCodeFAPI_HostAddress = http://localhost:5157
+
+GET {{IntroCodeFAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

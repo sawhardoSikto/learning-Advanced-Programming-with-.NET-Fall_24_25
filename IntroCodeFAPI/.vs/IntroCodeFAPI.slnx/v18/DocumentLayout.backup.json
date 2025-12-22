@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\IntroCodeFAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C572AF-5AF0-4CCF-9807-BD5D2BC5A394}|IntroCodeFAPI\\IntroCodeFAPI.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\introcodefapi\\introcodefapi\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1C572AF-5AF0-4CCF-9807-BD5D2BC5A394}|IntroCodeFAPI\\IntroCodeFAPI.csproj|solutionrelative:introcodefapi\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C572AF-5AF0-4CCF-9807-BD5D2BC5A394}|IntroCodeFAPI\\IntroCodeFAPI.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\introcodefapi\\introcodefapi\\dtos\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1C572AF-5AF0-4CCF-9807-BD5D2BC5A394}|IntroCodeFAPI\\IntroCodeFAPI.csproj|solutionrelative:introcodefapi\\dtos\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C572AF-5AF0-4CCF-9807-BD5D2BC5A394}|IntroCodeFAPI\\IntroCodeFAPI.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\introcodefapi\\introcodefapi\\ef\\models\\depertment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1C572AF-5AF0-4CCF-9807-BD5D2BC5A394}|IntroCodeFAPI\\IntroCodeFAPI.csproj|solutionrelative:introcodefapi\\ef\\models\\depertment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C572AF-5AF0-4CCF-9807-BD5D2BC5A394}|IntroCodeFAPI\\IntroCodeFAPI.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\introcodefapi\\introcodefapi\\introcodefapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{F1C572AF-5AF0-4CCF-9807-BD5D2BC5A394}|IntroCodeFAPI\\IntroCodeFAPI.csproj|solutionrelative:introcodefapi\\introcodefapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C572AF-5AF0-4CCF-9807-BD5D2BC5A394}|IntroCodeFAPI\\IntroCodeFAPI.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\introcodefapi\\introcodefapi\\migrations\\umscontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1C572AF-5AF0-4CCF-9807-BD5D2BC5A394}|IntroCodeFAPI\\IntroCodeFAPI.csproj|solutionrelative:introcodefapi\\migrations\\umscontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C572AF-5AF0-4CCF-9807-BD5D2BC5A394}|IntroCodeFAPI\\IntroCodeFAPI.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\introcodefapi\\introcodefapi\\migrations\\20251222181240_initdbset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1C572AF-5AF0-4CCF-9807-BD5D2BC5A394}|IntroCodeFAPI\\IntroCodeFAPI.csproj|solutionrelative:introcodefapi\\migrations\\20251222181240_initdbset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C572AF-5AF0-4CCF-9807-BD5D2BC5A394}|IntroCodeFAPI\\IntroCodeFAPI.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\introcodefapi\\introcodefapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1C572AF-5AF0-4CCF-9807-BD5D2BC5A394}|IntroCodeFAPI\\IntroCodeFAPI.csproj|solutionrelative:introcodefapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C572AF-5AF0-4CCF-9807-BD5D2BC5A394}|IntroCodeFAPI\\IntroCodeFAPI.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\introcodefapi\\introcodefapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F1C572AF-5AF0-4CCF-9807-BD5D2BC5A394}|IntroCodeFAPI\\IntroCodeFAPI.csproj|solutionrelative:introcodefapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C572AF-5AF0-4CCF-9807-BD5D2BC5A394}|IntroCodeFAPI\\IntroCodeFAPI.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\introcodefapi\\introcodefapi\\ef\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1C572AF-5AF0-4CCF-9807-BD5D2BC5A394}|IntroCodeFAPI\\IntroCodeFAPI.csproj|solutionrelative:introcodefapi\\ef\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C572AF-5AF0-4CCF-9807-BD5D2BC5A394}|IntroCodeFAPI\\IntroCodeFAPI.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\introcodefapi\\introcodefapi\\ef\\models\\courses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1C572AF-5AF0-4CCF-9807-BD5D2BC5A394}|IntroCodeFAPI\\IntroCodeFAPI.csproj|solutionrelative:introcodefapi\\ef\\models\\courses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C572AF-5AF0-4CCF-9807-BD5D2BC5A394}|IntroCodeFAPI\\IntroCodeFAPI.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\introcodefapi\\introcodefapi\\ef\\umscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1C572AF-5AF0-4CCF-9807-BD5D2BC5A394}|IntroCodeFAPI\\IntroCodeFAPI.csproj|solutionrelative:introcodefapi\\ef\\umscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DepartmentDTO.cs",
+              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\IntroCodeFAPI\\IntroCodeFAPI\\DTOs\\DepartmentDTO.cs",
+              "RelativeDocumentMoniker": "IntroCodeFAPI\\DTOs\\DepartmentDTO.cs",
+              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\IntroCodeFAPI\\IntroCodeFAPI\\DTOs\\DepartmentDTO.cs*",
+              "RelativeToolTip": "IntroCodeFAPI\\DTOs\\DepartmentDTO.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T18:36:53.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\IntroCodeFAPI\\IntroCodeFAPI\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "IntroCodeFAPI\\Controllers\\DepartmentController.cs",
+              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\IntroCodeFAPI\\IntroCodeFAPI\\Controllers\\DepartmentController.cs*",
+              "RelativeToolTip": "IntroCodeFAPI\\Controllers\\DepartmentController.cs*",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowC4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T18:30:43.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20251222181240_initDBSet.cs",
+              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\IntroCodeFAPI\\IntroCodeFAPI\\Migrations\\20251222181240_initDBSet.cs",
+              "RelativeDocumentMoniker": "IntroCodeFAPI\\Migrations\\20251222181240_initDBSet.cs",
+              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\IntroCodeFAPI\\IntroCodeFAPI\\Migrations\\20251222181240_initDBSet.cs",
+              "RelativeToolTip": "IntroCodeFAPI\\Migrations\\20251222181240_initDBSet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T18:17:34.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UmsContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\IntroCodeFAPI\\IntroCodeFAPI\\Migrations\\UmsContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "IntroCodeFAPI\\Migrations\\UmsContextModelSnapshot.cs",
+              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\IntroCodeFAPI\\IntroCodeFAPI\\Migrations\\UmsContextModelSnapshot.cs",
+              "RelativeToolTip": "IntroCodeFAPI\\Migrations\\UmsContextModelSnapshot.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T18:17:22.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IntroCodeFAPI.http",
+              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\IntroCodeFAPI\\IntroCodeFAPI\\IntroCodeFAPI.http",
+              "RelativeDocumentMoniker": "IntroCodeFAPI\\IntroCodeFAPI.http",
+              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\IntroCodeFAPI\\IntroCodeFAPI\\IntroCodeFAPI.http",
+              "RelativeToolTip": "IntroCodeFAPI\\IntroCodeFAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-12-22T18:08:12.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\IntroCodeFAPI\\IntroCodeFAPI\\Program.cs",
+              "RelativeDocumentMoniker": "IntroCodeFAPI\\Program.cs",
+              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\IntroCodeFAPI\\IntroCodeFAPI\\Program.cs",
+              "RelativeToolTip": "IntroCodeFAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T16:44:42.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Depertment.cs",
+              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\IntroCodeFAPI\\IntroCodeFAPI\\EF\\Models\\Depertment.cs",
+              "RelativeDocumentMoniker": "IntroCodeFAPI\\EF\\Models\\Depertment.cs",
+              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\IntroCodeFAPI\\IntroCodeFAPI\\EF\\Models\\Depertment.cs",
+              "RelativeToolTip": "IntroCodeFAPI\\EF\\Models\\Depertment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T16:33:24.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\IntroCodeFAPI\\IntroCodeFAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "IntroCodeFAPI\\appsettings.json",
+              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\IntroCodeFAPI\\IntroCodeFAPI\\appsettings.json",
+              "RelativeToolTip": "IntroCodeFAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-22T16:42:49.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Courses.cs",
+              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\IntroCodeFAPI\\IntroCodeFAPI\\EF\\Models\\Courses.cs",
+              "RelativeDocumentMoniker": "IntroCodeFAPI\\EF\\Models\\Courses.cs",
+              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\IntroCodeFAPI\\IntroCodeFAPI\\EF\\Models\\Courses.cs",
+              "RelativeToolTip": "IntroCodeFAPI\\EF\\Models\\Courses.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T16:39:31.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UmsContext.cs",
+              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\IntroCodeFAPI\\IntroCodeFAPI\\EF\\UmsContext.cs",
+              "RelativeDocumentMoniker": "IntroCodeFAPI\\EF\\UmsContext.cs",
+              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\IntroCodeFAPI\\IntroCodeFAPI\\EF\\UmsContext.cs",
+              "RelativeToolTip": "IntroCodeFAPI\\EF\\UmsContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T16:42:14.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\IntroCodeFAPI\\IntroCodeFAPI\\EF\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "IntroCodeFAPI\\EF\\Models\\Student.cs",
+              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\IntroCodeFAPI\\IntroCodeFAPI\\EF\\Models\\Student.cs",
+              "RelativeToolTip": "IntroCodeFAPI\\EF\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T16:31:41.821Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
