@@ -3,40 +3,40 @@
   "WorkspaceRootPath": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\EcommerceMS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CABD6F61-4BF2-4660-A607-2C2FB5457526}|EcommerceMS\\EcommerceMS.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\ecommercems\\ecommercems\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CABD6F61-4BF2-4660-A607-2C2FB5457526}|EcommerceMS\\EcommerceMS.csproj|solutionrelative:ecommercems\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C9966CE-3F81-6AB8-1056-E6059F7BCDE1}|EcommerceMS\\EcommerceMS.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\ecommercems\\ecommercems\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4C9966CE-3F81-6AB8-1056-E6059F7BCDE1}|EcommerceMS\\EcommerceMS.csproj|solutionrelative:ecommercems\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CABD6F61-4BF2-4660-A607-2C2FB5457526}|EcommerceMS\\EcommerceMS.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\ecommercems\\ecommercems\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CABD6F61-4BF2-4660-A607-2C2FB5457526}|EcommerceMS\\EcommerceMS.csproj|solutionrelative:ecommercems\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C9966CE-3F81-6AB8-1056-E6059F7BCDE1}|EcommerceMS\\EcommerceMS.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\ecommercems\\ecommercems\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C9966CE-3F81-6AB8-1056-E6059F7BCDE1}|EcommerceMS\\EcommerceMS.csproj|solutionrelative:ecommercems\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CABD6F61-4BF2-4660-A607-2C2FB5457526}|EcommerceMS\\EcommerceMS.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\ecommercems\\ecommercems\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{CABD6F61-4BF2-4660-A607-2C2FB5457526}|EcommerceMS\\EcommerceMS.csproj|solutionrelative:ecommercems\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{4C9966CE-3F81-6AB8-1056-E6059F7BCDE1}|EcommerceMS\\EcommerceMS.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\ecommercems\\ecommercems\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C9966CE-3F81-6AB8-1056-E6059F7BCDE1}|EcommerceMS\\EcommerceMS.csproj|solutionrelative:ecommercems\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CABD6F61-4BF2-4660-A607-2C2FB5457526}|EcommerceMS\\EcommerceMS.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\ecommercems\\ecommercems\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CABD6F61-4BF2-4660-A607-2C2FB5457526}|EcommerceMS\\EcommerceMS.csproj|solutionrelative:ecommercems\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C9966CE-3F81-6AB8-1056-E6059F7BCDE1}|EcommerceMS\\EcommerceMS.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\ecommercems\\ecommercems\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C9966CE-3F81-6AB8-1056-E6059F7BCDE1}|EcommerceMS\\EcommerceMS.csproj|solutionrelative:ecommercems\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CABD6F61-4BF2-4660-A607-2C2FB5457526}|EcommerceMS\\EcommerceMS.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\ecommercems\\ecommercems\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CABD6F61-4BF2-4660-A607-2C2FB5457526}|EcommerceMS\\EcommerceMS.csproj|solutionrelative:ecommercems\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C9966CE-3F81-6AB8-1056-E6059F7BCDE1}|EcommerceMS\\EcommerceMS.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\ecommercems\\ecommercems\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C9966CE-3F81-6AB8-1056-E6059F7BCDE1}|EcommerceMS\\EcommerceMS.csproj|solutionrelative:ecommercems\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CABD6F61-4BF2-4660-A607-2C2FB5457526}|EcommerceMS\\EcommerceMS.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\ecommercems\\ecommercems\\ef\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CABD6F61-4BF2-4660-A607-2C2FB5457526}|EcommerceMS\\EcommerceMS.csproj|solutionrelative:ecommercems\\ef\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C9966CE-3F81-6AB8-1056-E6059F7BCDE1}|EcommerceMS\\EcommerceMS.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\ecommercems\\ecommercems\\ef\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C9966CE-3F81-6AB8-1056-E6059F7BCDE1}|EcommerceMS\\EcommerceMS.csproj|solutionrelative:ecommercems\\ef\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CABD6F61-4BF2-4660-A607-2C2FB5457526}|EcommerceMS\\EcommerceMS.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\ecommercems\\ecommercems\\ef\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CABD6F61-4BF2-4660-A607-2C2FB5457526}|EcommerceMS\\EcommerceMS.csproj|solutionrelative:ecommercems\\ef\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C9966CE-3F81-6AB8-1056-E6059F7BCDE1}|EcommerceMS\\EcommerceMS.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\ecommercems\\ecommercems\\ef\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C9966CE-3F81-6AB8-1056-E6059F7BCDE1}|EcommerceMS\\EcommerceMS.csproj|solutionrelative:ecommercems\\ef\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CABD6F61-4BF2-4660-A607-2C2FB5457526}|EcommerceMS\\EcommerceMS.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\ecommercems\\ecommercems\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CABD6F61-4BF2-4660-A607-2C2FB5457526}|EcommerceMS\\EcommerceMS.csproj|solutionrelative:ecommercems\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C9966CE-3F81-6AB8-1056-E6059F7BCDE1}|EcommerceMS\\EcommerceMS.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\ecommercems\\ecommercems\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C9966CE-3F81-6AB8-1056-E6059F7BCDE1}|EcommerceMS\\EcommerceMS.csproj|solutionrelative:ecommercems\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CABD6F61-4BF2-4660-A607-2C2FB5457526}|EcommerceMS\\EcommerceMS.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\ecommercems\\ecommercems\\ef\\emscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CABD6F61-4BF2-4660-A607-2C2FB5457526}|EcommerceMS\\EcommerceMS.csproj|solutionrelative:ecommercems\\ef\\emscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C9966CE-3F81-6AB8-1056-E6059F7BCDE1}|EcommerceMS\\EcommerceMS.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\ecommercems\\ecommercems\\ef\\emscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C9966CE-3F81-6AB8-1056-E6059F7BCDE1}|EcommerceMS\\EcommerceMS.csproj|solutionrelative:ecommercems\\ef\\emscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,11 +46,11 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "ProductDTO.cs",
               "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\EcommerceMS\\EcommerceMS\\DTOs\\ProductDTO.cs",
               "RelativeDocumentMoniker": "EcommerceMS\\DTOs\\ProductDTO.cs",
@@ -63,7 +63,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ProductController.cs",
               "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\EcommerceMS\\EcommerceMS\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "EcommerceMS\\Controllers\\ProductController.cs",
@@ -76,7 +76,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "CategoryDTO.cs",
               "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\EcommerceMS\\EcommerceMS\\DTOs\\CategoryDTO.cs",
               "RelativeDocumentMoniker": "EcommerceMS\\DTOs\\CategoryDTO.cs",
@@ -89,26 +89,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\EcommerceMS\\EcommerceMS\\appsettings.json",
               "RelativeDocumentMoniker": "EcommerceMS\\appsettings.json",
               "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\EcommerceMS\\EcommerceMS\\appsettings.json",
               "RelativeToolTip": "EcommerceMS\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-12-23T07:09:26.907Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\EcommerceMS\\EcommerceMS\\Program.cs",
               "RelativeDocumentMoniker": "EcommerceMS\\Program.cs",
               "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\EcommerceMS\\EcommerceMS\\Program.cs",
               "RelativeToolTip": "EcommerceMS\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAABJAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwA0AAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-23T07:08:42.174Z",
               "EditorCaption": ""
@@ -134,7 +134,7 @@
               "RelativeDocumentMoniker": "EcommerceMS\\EF\\Models\\Product.cs",
               "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\EcommerceMS\\EcommerceMS\\EF\\Models\\Product.cs",
               "RelativeToolTip": "EcommerceMS\\EF\\Models\\Product.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-23T07:06:11.258Z",
               "EditorCaption": ""
@@ -147,7 +147,7 @@
               "RelativeDocumentMoniker": "EcommerceMS\\Controllers\\CategoryController.cs",
               "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\EcommerceMS\\EcommerceMS\\Controllers\\CategoryController.cs",
               "RelativeToolTip": "EcommerceMS\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAA8wBQAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAmwBQAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-23T07:28:32.077Z",
               "EditorCaption": ""
