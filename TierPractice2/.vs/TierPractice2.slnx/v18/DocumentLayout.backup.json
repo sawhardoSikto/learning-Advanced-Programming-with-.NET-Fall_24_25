@@ -1,12 +1,241 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\TierPractice2\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0B3B6C2-3339-9CB5-77E7-F31BED4D1906}|AppLayer\\AppLayer.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\tierpractice2\\applayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0B3B6C2-3339-9CB5-77E7-F31BED4D1906}|AppLayer\\AppLayer.csproj|solutionrelative:applayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\tierpractice2\\bll\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\tierpractice2\\bll\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\tierpractice2\\dal\\repositories\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\tierpractice2\\dal\\interfaces\\igenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\igenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0B3B6C2-3339-9CB5-77E7-F31BED4D1906}|AppLayer\\AppLayer.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\tierpractice2\\applayer\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0B3B6C2-3339-9CB5-77E7-F31BED4D1906}|AppLayer\\AppLayer.csproj|solutionrelative:applayer\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\tierpractice2\\dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\tierpractice2\\bll\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\tierpractice2\\dal\\ef\\umscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\umscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\tierpractice2\\dal\\ef\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0B3B6C2-3339-9CB5-77E7-F31BED4D1906}|AppLayer\\AppLayer.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\tierpractice2\\applayer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A0B3B6C2-3339-9CB5-77E7-F31BED4D1906}|AppLayer\\AppLayer.csproj|solutionrelative:applayer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\tierpractice2\\dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\tierpractice2\\bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\TierPractice2\\BLL\\Interfaces\\IStudentService.cs",
+              "RelativeDocumentMoniker": "BLL\\Interfaces\\IStudentService.cs",
+              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\TierPractice2\\BLL\\Interfaces\\IStudentService.cs",
+              "RelativeToolTip": "BLL\\Interfaces\\IStudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T19:20:42.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GenericRepo.cs",
+              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\TierPractice2\\DAL\\Repositories\\GenericRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\GenericRepo.cs",
+              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\TierPractice2\\DAL\\Repositories\\GenericRepo.cs",
+              "RelativeToolTip": "DAL\\Repositories\\GenericRepo.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwDIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T19:08:12.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IgenericRepo.cs",
+              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\TierPractice2\\DAL\\Interfaces\\IgenericRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IgenericRepo.cs",
+              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\TierPractice2\\DAL\\Interfaces\\IgenericRepo.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IgenericRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T19:06:14.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\TierPractice2\\AppLayer\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "AppLayer\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\TierPractice2\\AppLayer\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "AppLayer\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T17:16:23.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\TierPractice2\\BLL\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\StudentService.cs",
+              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\TierPractice2\\BLL\\Services\\StudentService.cs",
+              "RelativeToolTip": "BLL\\Services\\StudentService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T16:58:54.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentDTO.cs",
+              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\TierPractice2\\BLL\\DTOs\\StudentDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\StudentDTO.cs",
+              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\TierPractice2\\BLL\\DTOs\\StudentDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\StudentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T16:57:19.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\TierPractice2\\DAL\\EF\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\Models\\Student.cs",
+              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\TierPractice2\\DAL\\EF\\Models\\Student.cs",
+              "RelativeToolTip": "DAL\\EF\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T16:33:24.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UMSContext.cs",
+              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\TierPractice2\\DAL\\EF\\UMSContext.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\UMSContext.cs",
+              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\TierPractice2\\DAL\\EF\\UMSContext.cs",
+              "RelativeToolTip": "DAL\\EF\\UMSContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T16:31:39.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\TierPractice2\\AppLayer\\appsettings.json",
+              "RelativeDocumentMoniker": "AppLayer\\appsettings.json",
+              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\TierPractice2\\AppLayer\\appsettings.json",
+              "RelativeToolTip": "AppLayer\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-01T16:25:00.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\TierPractice2\\AppLayer\\Program.cs",
+              "RelativeDocumentMoniker": "AppLayer\\Program.cs",
+              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\TierPractice2\\AppLayer\\Program.cs",
+              "RelativeToolTip": "AppLayer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T16:22:31.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DAL.csproj",
+              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\TierPractice2\\DAL\\DAL.csproj",
+              "RelativeDocumentMoniker": "DAL\\DAL.csproj",
+              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\TierPractice2\\DAL\\DAL.csproj",
+              "RelativeToolTip": "DAL\\DAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-01T18:28:01.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\TierPractice2\\DAL\\Class1.cs",
+              "RelativeDocumentMoniker": "DAL\\Class1.cs",
+              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\TierPractice2\\DAL\\Class1.cs",
+              "RelativeToolTip": "DAL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T16:20:51.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\TierPractice2\\BLL\\Class1.cs",
+              "RelativeDocumentMoniker": "BLL\\Class1.cs",
+              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\TierPractice2\\BLL\\Class1.cs",
+              "RelativeToolTip": "BLL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T16:20:41.92Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

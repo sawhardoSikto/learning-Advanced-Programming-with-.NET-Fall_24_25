@@ -1,3 +1,8 @@
+using BLL.Services;
+using DAL.EF;
+using DAL.Repositories;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -6,6 +11,13 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+
+//builder.Services.AddScoped<StudentRepo>();
+builder.Services.AddScoped(typeof(GenericRepo<>));
+builder.Services.AddScoped<StudentService>();
+builder.Services.AddDbContext<UMSContext>(option=>
+    option.UseSqlServer(builder.Configuration.GetConnectionString("DBConn")));
+    
 
 var app = builder.Build();
 
