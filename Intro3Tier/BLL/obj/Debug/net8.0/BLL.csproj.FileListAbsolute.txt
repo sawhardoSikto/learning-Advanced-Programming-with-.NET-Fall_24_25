@@ -1,0 +1,16 @@
+D:\coding\learning-Advanced-Programming-with-.NET-Fall_24_25\Intro3Tier\BLL\bin\Debug\net8.0\BLL.deps.json
+D:\coding\learning-Advanced-Programming-with-.NET-Fall_24_25\Intro3Tier\BLL\bin\Debug\net8.0\BLL.dll
+D:\coding\learning-Advanced-Programming-with-.NET-Fall_24_25\Intro3Tier\BLL\bin\Debug\net8.0\BLL.pdb
+D:\coding\learning-Advanced-Programming-with-.NET-Fall_24_25\Intro3Tier\BLL\bin\Debug\net8.0\DAL.dll
+D:\coding\learning-Advanced-Programming-with-.NET-Fall_24_25\Intro3Tier\BLL\bin\Debug\net8.0\DAL.pdb
+D:\coding\learning-Advanced-Programming-with-.NET-Fall_24_25\Intro3Tier\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+D:\coding\learning-Advanced-Programming-with-.NET-Fall_24_25\Intro3Tier\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding\learning-Advanced-Programming-with-.NET-Fall_24_25\Intro3Tier\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+D:\coding\learning-Advanced-Programming-with-.NET-Fall_24_25\Intro3Tier\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+D:\coding\learning-Advanced-Programming-with-.NET-Fall_24_25\Intro3Tier\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+D:\coding\learning-Advanced-Programming-with-.NET-Fall_24_25\Intro3Tier\BLL\obj\Debug\net8.0\BLL.sourcelink.json
+D:\coding\learning-Advanced-Programming-with-.NET-Fall_24_25\Intro3Tier\BLL\obj\Debug\net8.0\BLL.csproj.Up2Date
+D:\coding\learning-Advanced-Programming-with-.NET-Fall_24_25\Intro3Tier\BLL\obj\Debug\net8.0\BLL.dll
+D:\coding\learning-Advanced-Programming-with-.NET-Fall_24_25\Intro3Tier\BLL\obj\Debug\net8.0\refint\BLL.dll
+D:\coding\learning-Advanced-Programming-with-.NET-Fall_24_25\Intro3Tier\BLL\obj\Debug\net8.0\BLL.pdb
+D:\coding\learning-Advanced-Programming-with-.NET-Fall_24_25\Intro3Tier\BLL\obj\Debug\net8.0\ref\BLL.dll
