@@ -216,3 +216,4 @@ D:\coding\learning-Advanced-Programming-with-.NET-Fall_24_25\UniMS Project\APIAp
 D:\coding\learning-Advanced-Programming-with-.NET-Fall_24_25\UniMS Project\APIApp\obj\Debug\net8.0\APIApp.pdb
 D:\coding\learning-Advanced-Programming-with-.NET-Fall_24_25\UniMS Project\APIApp\obj\Debug\net8.0\APIApp.genruntimeconfig.cache
 D:\coding\learning-Advanced-Programming-with-.NET-Fall_24_25\UniMS Project\APIApp\obj\Debug\net8.0\ref\APIApp.dll
+D:\coding\learning-Advanced-Programming-with-.NET-Fall_24_25\UniMS Project\APIApp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
