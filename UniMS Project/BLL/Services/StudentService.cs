@@ -1,4 +1,5 @@
-﻿using DAL;
+﻿using BLL.DTOs;
+using DAL;
 using DAL.EF.Models;
 using System;
 using System.Collections.Generic;
@@ -10,7 +11,7 @@ namespace BLL.Services
 {
     public  class StudentService
     {
-        EnrollmentService sc; // for GradeToPoint method
+      
 
 
         DataAccessFactory factory;
@@ -18,6 +19,23 @@ namespace BLL.Services
         {
             this.factory = factory;
         }
+
+        public bool Create(StudentCreateDTO studentdto)
+        {
+            var cfg = MapperConfig.GetMapper();
+            var student = cfg.Map<Student>(studentdto);
+            student.Cgpa = 0.0;
+            student.Status= "Active";
+            return factory.StudentData().Create(student);
+        }
+        public List<StudentDTO> GetAll()
+        {
+            var cfg = MapperConfig.GetMapper();
+            var students = factory.StudentData().GetAll();
+            return cfg.Map<List<StudentDTO>>(students);
+        }
+
+
 
         public double CalculateCgpa(int SId)
         {
@@ -30,12 +48,14 @@ namespace BLL.Services
             {
                 if ( e.Grade != null)
                 {
-                    double points = sc.GradeToPoint(e.Grade);
+                    double points = GradeToPoint(e.Grade);
                     totalPoint += points * e.Course.Credit;
                     totalCredit += e.Course.Credit;
 
                 }
             }
+            if (totalCredit == 0)
+                return 0.0;
             return totalPoint / totalCredit;
 
         }
@@ -64,8 +84,9 @@ namespace BLL.Services
         }
 
         // advanced search
-        public List<Student> SearchStudents(string keyword)
+        public List<StudentDTO> SearchStudents(string keyword)
         {
+            var cfg = MapperConfig.GetMapper();
             List<Student> list =
                 factory.StudentData().GetAll();
 
@@ -80,9 +101,43 @@ namespace BLL.Services
                 }
             }
 
-            return result;
+            return cfg.Map<List<StudentDTO>>(result);
         }
 
+
+        public double GradeToPoint(string grade)
+        {
+            if (grade == "A+")
+            {
+                return 4.00;
+            }
+            if (grade == "A")
+            {
+                return 3.75;
+            }
+            if (grade == "B+")
+            {
+                return 3.50;
+
+            }
+            if (grade == "B")
+            {
+                return 3.25;
+            }
+            if (grade == "C+")
+            {
+                return 3.00;
+            }
+            if (grade == "C")
+            {
+                return 2.75;
+            }
+            if (grade == "D")
+            {
+                return 2.50;
+            }
+            return 0.0;
+        }
 
     }
 }

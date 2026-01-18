@@ -1,3 +1,4 @@
+using BLL.Services;
 using DAL;
 using DAL.EF;
 using Microsoft.EntityFrameworkCore;
@@ -12,6 +13,8 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 builder.Services.AddScoped<DataAccessFactory>();
+builder.Services.AddScoped<StudentService>();
+builder.Services.AddScoped<EnrollmentService>();
 builder.Services.AddDbContext<UniMS>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DbConn")));
 

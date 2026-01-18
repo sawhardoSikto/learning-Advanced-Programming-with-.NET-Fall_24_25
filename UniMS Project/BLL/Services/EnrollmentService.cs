@@ -1,4 +1,5 @@
-﻿using DAL;
+﻿using BLL.DTOs;
+using DAL;
 using DAL.EF.Models;
 using System;
 using System.Collections.Generic;
@@ -9,28 +10,28 @@ using System.Threading.Tasks;
 
 namespace BLL.Services
 {
-    internal class EnrollmentService
+    public class EnrollmentService
     {
         DataAccessFactory factory;
-        EnrollmentService(DataAccessFactory factory)
+       public EnrollmentService(DataAccessFactory factory)
         {
             this.factory = factory;
         }
 
         // FEATURE 1: Advanced validation
         // Student same course same semester 2 bar nite parbe na
-        public bool Enroll(int sId, int cId, string semester)
+        public bool Enroll(EnrollmentCreateDTO dto)
         {
-            List<Enrollment> list = factory.EnrollmentData().GetByStudent(sId);
+            List<Enrollment> list = factory.EnrollmentData().GetByStudent(dto.SId);
             foreach (var enrollment in list)
             {
-                if (enrollment.CId == cId && enrollment.Semester == semester)
+                if (enrollment.CId == dto.CId && enrollment.Semester == dto.Semester)
                 {
                     return false; // Student is already enrolled in this course for the given semester
                 }
             }
           
-            return factory.EnrollmentData().Enroll(sId,cId,semester);
+            return factory.EnrollmentData().Enroll(dto.SId,dto.CId,dto.Semester);
         }
         public bool UpdateGrade(int Id, string Grade)
         {
@@ -54,6 +55,8 @@ namespace BLL.Services
 
                 }
             }
+            if (totalCredit == 0)
+                return 0.0;
             return totalPoints/totalCredit;
 
 
@@ -95,5 +98,8 @@ namespace BLL.Services
             }
             return 0.0;
         }
+
+
     }
+
 }

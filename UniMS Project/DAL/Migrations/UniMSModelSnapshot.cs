@@ -84,7 +84,6 @@ namespace DAL.Migrations
                         .HasColumnType("int");
 
                     b.Property<string>("Grade")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<int>("SId")
