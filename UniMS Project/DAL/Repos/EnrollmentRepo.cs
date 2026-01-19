@@ -48,6 +48,7 @@ namespace DAL.Repos
             if (ex != null)
             {
                 ex.Grade = Grade;
+                db.Enrollments.Update(ex);
                 return db.SaveChanges() > 0;
             }
             return false;

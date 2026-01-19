@@ -29,7 +29,7 @@ namespace APIApp.Controllers
             return BadRequest("Enrollment failed" );
         }
         [HttpPut("grade/{id}")]
-        [HttpPut("grade")]
+       
         public IActionResult UpdateGrade(EnrollmentGradeDTO dto)
         {
             bool result = service.UpdateGrade(dto.EnrollmentId, dto.Grade);

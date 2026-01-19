@@ -15,9 +15,11 @@ namespace BLL.Services
 
 
         DataAccessFactory factory;
-        public StudentService(DataAccessFactory factory)
+        MailService mailService;
+        public StudentService(DataAccessFactory factory , MailService mailService)
         {
             this.factory = factory;
+            this.mailService = mailService;
         }
 
         public bool Create(StudentCreateDTO studentdto)
@@ -73,6 +75,11 @@ namespace BLL.Services
             if (cgpa < 2.50)
             {
                 s.Status = "Probation";
+                if(!string.IsNullOrEmpty(s.Status))
+                
+                {
+                    mailService.SendProbationMail(s.Email, s.Name, cgpa);
+                }
             }
             else
             {

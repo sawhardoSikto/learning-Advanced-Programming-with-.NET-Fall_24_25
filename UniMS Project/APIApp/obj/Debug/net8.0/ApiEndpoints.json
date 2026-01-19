@@ -74,16 +74,6 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "APIApp.Controllers.EnrollmentsController",
-    "Method": "TestGrade",
-    "RelativePath": "api/Enrollments/test-grade",
-    "HttpMethod": "PUT",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": []
-  },
-  {
     "ContainingType": "APIApp.Controllers.StudentsController",
     "Method": "GetCGPA",
     "RelativePath": "api/Students/{id}/cgpa",

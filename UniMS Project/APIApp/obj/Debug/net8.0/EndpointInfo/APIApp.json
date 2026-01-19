@@ -139,18 +139,6 @@
         }
       }
     },
-    "/api/Enrollments/test-grade": {
-      "put": {
-        "tags": [
-          "Enrollments"
-        ],
-        "responses": {
-          "200": {
-            "description": "OK"
-          }
-        }
-      }
-    },
     "/api/Students/all": {
       "get": {
         "tags": [
