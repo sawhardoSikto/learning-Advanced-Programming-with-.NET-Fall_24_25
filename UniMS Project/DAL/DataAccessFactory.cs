@@ -38,6 +38,10 @@ namespace DAL
         {
             return new EnrollmentRepo(db);
         }
+       public IStudentFeatures StudentFeaturesData()
+        {
+            return new StudentRepo(db);
+        }
 
     }
 }

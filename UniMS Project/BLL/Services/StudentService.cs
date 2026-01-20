@@ -36,6 +36,10 @@ namespace BLL.Services
             var students = factory.StudentData().GetAll();
             return cfg.Map<List<StudentDTO>>(students);
         }
+        public bool Delete(int id)
+        {
+            return factory.StudentData().Delete(id);
+        }
 
 
 
@@ -62,7 +66,7 @@ namespace BLL.Services
 
         }
 
-        // FEATURE 5: WORKFLOW AUTOMATION
+     
         // CGPA < 2.0 hole auto Probation
         public bool UpdateStudentStatus(int SId)
         {
@@ -72,6 +76,7 @@ namespace BLL.Services
                 return false;
             }
             double cgpa = CalculateCgpa(SId);
+            s.Cgpa = cgpa;
             if (cgpa < 2.50)
             {
                 s.Status = "Probation";
@@ -89,13 +94,24 @@ namespace BLL.Services
 
 
         }
+        public StudentDTO GetById(int id)
+        {
+            var cfg = MapperConfig.GetMapper();
+            var student = factory.StudentData().GetById(id);
+            return cfg.Map<StudentDTO>(student);
+        }
+        public bool Update(StudentDTO studentdto)
+        {
+            var cfg = MapperConfig.GetMapper();
+            var student = cfg.Map<Student>(studentdto);
+            return factory.StudentData().Update(student);
+        }
 
         // advanced search
         public List<StudentDTO> SearchStudents(string keyword)
         {
             var cfg = MapperConfig.GetMapper();
-            List<Student> list =
-                factory.StudentData().GetAll();
+            List<Student> list = factory.StudentData().GetAll();
 
             List<Student> result = new List<Student>();
 
@@ -110,7 +126,18 @@ namespace BLL.Services
 
             return cfg.Map<List<StudentDTO>>(result);
         }
-
+        public List<StudentEnrollmentDTO> GetWithEnrollment()
+        {
+            var cfg = MapperConfig.GetMapper();
+            var students = factory.StudentFeaturesData().GetWithEnrollment();
+            return cfg.Map<List<StudentEnrollmentDTO>>(students);
+        }
+        public StudentEnrollmentDTO GetWithEnrollmentById(int id)
+        {
+            var cfg = MapperConfig.GetMapper();
+            var students = factory.StudentFeaturesData().GetWithEnrollmentById(id);
+            return cfg.Map<StudentEnrollmentDTO>(students);
+        }
 
         public double GradeToPoint(string grade)
         {

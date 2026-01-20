@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BLL.DTOs
 {
-    public  class StudentEnrollmentDTO:StudentDTO
+    public class StudentEnrollmentDTO : StudentDTO
     {
         public List<EnrollmentDTO> Enrollments { get; set; }
         public StudentEnrollmentDTO()

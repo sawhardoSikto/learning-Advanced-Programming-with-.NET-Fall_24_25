@@ -16,6 +16,9 @@ builder.Services.AddScoped<DataAccessFactory>();
 builder.Services.AddScoped<StudentService>();
 builder.Services.AddScoped<EnrollmentService>();
 builder.Services.AddScoped<MailService>();
+builder.Services.AddScoped<DepartmentService>();
+builder.Services.AddScoped<CourseService>();
+builder.Services.AddScoped<TeacherService>();
 
 builder.Services.AddDbContext<UniMS>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DbConn")));

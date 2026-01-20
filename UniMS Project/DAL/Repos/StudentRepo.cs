@@ -1,6 +1,7 @@
 ﻿using DAL.EF;
 using DAL.EF.Models;
 using DAL.Interfaces;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace DAL.Repos
 {
-    internal class StudentRepo:IRepositories<Student>
+    internal class StudentRepo:IRepositories<Student> , IStudentFeatures
     {
         UniMS db;
         public StudentRepo (UniMS db)
@@ -46,6 +47,19 @@ namespace DAL.Repos
             var exCategory = GetById(entity.Id);
             db.Entry(exCategory).CurrentValues.SetValues(entity);
             return db.SaveChanges() > 0;
+        }
+        public List<Student> GetWithEnrollment()
+        {
+            var students = (from s in db.Students.Include(st => st.Enrollments).ThenInclude(e=> e.Course)
+                            select s).ToList();
+            return students;
+        }
+        public Student GetWithEnrollmentById(int id)
+        {
+            var student = (from s in db.Students.Include(st => st.Enrollments).ThenInclude(e => e.Course)
+                           where s.Id == id
+                           select s).FirstOrDefault();
+            return student;
         }
     }
 }

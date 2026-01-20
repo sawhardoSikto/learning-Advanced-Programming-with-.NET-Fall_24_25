@@ -41,8 +41,8 @@ namespace DAL.Repos
 
         public bool Update(Department entity)
         {
-           
-            db.Entry(GetById(entity.Id)).CurrentValues.SetValues(entity);
+
+            db.Departments.Update(entity);
             return db.SaveChanges() > 0;
         }
     }

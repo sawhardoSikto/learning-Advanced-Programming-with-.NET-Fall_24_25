@@ -21,14 +21,40 @@ namespace APIApp.Controllers
             var students = service.GetAll();
             return Ok(students);
         }
+        [HttpDelete("{id}")]
+        public IActionResult Delete(int id)
+        {
+            bool result = service.Delete(id);
+            if (result)
+            {
+                return Ok("Student deleted successfully");
+            }
+            else
+            {
+                return BadRequest("Failed to delete student");
+            }
+        }
+        [HttpPut("update")]
+        public IActionResult Update(StudentDTO dto)
+        {
+            bool result = service.Update(dto);
+            if (result)
+            {
+                return Ok("Student updated successfully");
+            }
+            else
+            {
+                return BadRequest("Failed to update student");
+            }
+        }
 
         [HttpPost("create")]
         public IActionResult Create(StudentCreateDTO dto)
         {
-            bool result  = service.Create(dto);
+            bool result = service.Create(dto);
             if (result)
             {
-                return Ok("Student created successfully" );
+                return Ok("Student created successfully");
             }
             else
             {
@@ -63,7 +89,19 @@ namespace APIApp.Controllers
             return Ok(data);
 
         }
+        [HttpGet("all/enrollment")]
+        public IActionResult GetWithEnrollment()
+        {
+            var students = service.GetWithEnrollment();
+            return Ok(students);
 
 
+        }
+        [HttpGet("{id}/enrollment")]
+        public IActionResult GetWithEnrollmentById(int id)
+        {
+            var student = service.GetWithEnrollmentById(id);
+            return Ok(student);
+        }
     }
 }

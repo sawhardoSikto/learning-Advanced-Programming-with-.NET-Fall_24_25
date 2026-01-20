@@ -34,17 +34,21 @@ namespace DAL.Repos
 
         public List<Teacher> GetAll()
         {
-            throw new NotImplementedException();
+            return db.Teachers.ToList();
+
         }
 
         public Teacher GetById(int id)
         {
-            throw new NotImplementedException();
-        }
+            var data = db.Teachers.Find(id);
+            return data;        
+        }       
 
         public bool Update(Teacher entity)
         {
-            throw new NotImplementedException();
+           var existing = db.Teachers.Find(entity.Id);
+            db.Entry(existing).CurrentValues.SetValues(entity);
+            return db.SaveChanges() > 0;
         }
     }
 }

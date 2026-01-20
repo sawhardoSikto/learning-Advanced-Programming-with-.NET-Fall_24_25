@@ -18,7 +18,7 @@ namespace BLL.Services
             this.factory = factory;
         }
 
-        // FEATURE 1: Advanced validation
+        
         // Student same course same semester 2 bar nite parbe na
         public bool Enroll(EnrollmentCreateDTO dto)
         {
@@ -27,7 +27,7 @@ namespace BLL.Services
             {
                 if (enrollment.CId == dto.CId && enrollment.Semester == dto.Semester)
                 {
-                    return false; // Student is already enrolled in this course for the given semester
+                    return false; 
                 }
             }
           
@@ -37,7 +37,7 @@ namespace BLL.Services
         {
             return factory.EnrollmentData().UpdateGrade(Id,Grade);
         }
-        // FEATURE 3: REPORT / ANALYTICS
+
         // Semester wise GPA calculation
         public double CalculateSemesterGPA(int sId, string semester)
         {
@@ -62,8 +62,7 @@ namespace BLL.Services
 
 
         }
-       
-
+        
 
         public double GradeToPoint(string grade)
         {

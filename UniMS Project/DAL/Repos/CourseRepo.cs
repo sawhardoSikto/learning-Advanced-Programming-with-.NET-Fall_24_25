@@ -43,10 +43,17 @@ namespace DAL.Repos
 
         public bool Update(Course entity)
         {
-            var data= GetById(entity.Id);
-            db.Entry(data).CurrentValues.SetValues(entity);
-            return db.SaveChanges() > 0;
 
+            
+            var existing = db.Courses.Find(entity.Id);
+
+            if (existing == null)
+                return false;
+
+            db.Entry(existing).CurrentValues.SetValues(entity);
+            return db.SaveChanges() > 0;
         }
-    }
+
+
+}
 }

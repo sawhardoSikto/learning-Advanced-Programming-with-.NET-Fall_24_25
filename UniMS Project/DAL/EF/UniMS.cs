@@ -42,7 +42,7 @@ namespace DAL.EF
                 .HasForeignKey(c => c.TeacherId)
                 .OnDelete(DeleteBehavior.Restrict);
 
-            // Student → Enrollment (RESTRICT) 🔥
+            // Student → Enrollment (RESTRICT) 
             modelBuilder.Entity<Enrollment>()
                 .HasOne(e => e.Student)
                 .WithMany(s => s.Enrollments)

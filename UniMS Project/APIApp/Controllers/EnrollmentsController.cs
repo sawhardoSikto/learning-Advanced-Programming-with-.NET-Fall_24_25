@@ -48,7 +48,16 @@ namespace APIApp.Controllers
             double gpa = service.CalculateSemesterGPA(sid, semester);
             return Ok(gpa);
         }
-       
+        [HttpGet("getStudent/{id}")]
+        public IActionResult GetStudent(int id)
+        {
+            var student = StudentService.GetById(id);
+            if (student != null)
+            {
+                return Ok(student);
+            }
+            return NotFound("Student not found");
+        }
 
     }
 }

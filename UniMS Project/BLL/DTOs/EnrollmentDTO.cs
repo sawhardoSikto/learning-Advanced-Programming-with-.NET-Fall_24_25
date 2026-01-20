@@ -12,7 +12,7 @@ namespace BLL.DTOs
  
         public string Semester { get; set; }
         public string Grade { get; set; }
+        public virtual CourseDTO Course { get; set; }
 
-        public CourseDTO Course { get; set; }
     }
 }

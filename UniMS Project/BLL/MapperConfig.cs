@@ -15,6 +15,10 @@ namespace BLL
             cfg.CreateMap<Enrollment, EnrollmentDTO>().ReverseMap();
             cfg.CreateMap<Enrollment, EnrollmentCreateDTO>().ReverseMap();
             cfg.CreateMap<StudentCreateDTO, Student>();
+            cfg.CreateMap<Department, DepartmentDTO>().ReverseMap();
+            cfg.CreateMap<Teacher, TeacherDTO>().ReverseMap();
+
+
 
 
         });
