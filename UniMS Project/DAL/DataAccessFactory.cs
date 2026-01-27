@@ -42,6 +42,10 @@ namespace DAL
         {
             return new StudentRepo(db);
         }
+        public UserRepo UserData()
+        {
+            return new UserRepo(db);
+        }
 
     }
 }
