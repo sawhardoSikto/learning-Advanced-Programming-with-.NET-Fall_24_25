@@ -355,6 +355,16 @@
   },
   {
     "ContainingType": "APIApp.Controllers.StudentsController",
+    "Method": "Dashboard",
+    "RelativePath": "api/Students/dashboard",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "APIApp.Controllers.StudentsController",
     "Method": "Search",
     "RelativePath": "api/Students/search",
     "HttpMethod": "GET",

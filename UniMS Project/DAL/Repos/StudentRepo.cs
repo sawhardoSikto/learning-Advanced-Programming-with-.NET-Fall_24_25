@@ -5,6 +5,7 @@ using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -60,6 +61,26 @@ namespace DAL.Repos
                            where s.Id == id
                            select s).FirstOrDefault();
             return student;
+        }
+
+        public Student GetByUsername(int id)
+        {
+            var student = (from s in db.Students
+                           where s.Id == id
+                           select s).FirstOrDefault();
+
+            return student;
+        }
+
+        public List<Enrollment> GetEnrollments(int sid)
+        {
+            var enrollments = (from e in db.Enrollments
+                               where e.SId == sid
+                               select e)
+                       .Include(e => e.Course)
+                       .ToList();
+
+            return enrollments;
         }
     }
 }

@@ -3,16 +3,56 @@
   "WorkspaceRootPath": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\UniMS Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{215AE319-6506-1684-0DF0-D89725E186FB}|APIApp\\APIApp.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\unims project\\apiapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{215AE319-6506-1684-0DF0-D89725E186FB}|APIApp\\APIApp.csproj|solutionrelative:apiapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{215AE319-6506-1684-0DF0-D89725E186FB}|APIApp\\APIApp.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\unims project\\apiapp\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{215AE319-6506-1684-0DF0-D89725E186FB}|APIApp\\APIApp.csproj|solutionrelative:apiapp\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\unims project\\bll\\dtos\\studentdashboarddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\studentdashboarddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{215AE319-6506-1684-0DF0-D89725E186FB}|APIApp\\APIApp.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\unims project\\apiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{215AE319-6506-1684-0DF0-D89725E186FB}|APIApp\\APIApp.csproj|solutionrelative:apiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\unims project\\bll\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\unims project\\bll\\mapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\mapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\unims project\\dal\\ef\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\unims project\\bll\\dtos\\studentcoursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\studentcoursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\unims project\\dal\\repos\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\unims project\\dal\\interfaces\\istudentfeatures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\istudentfeatures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\unims project\\bll\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{215AE319-6506-1684-0DF0-D89725E186FB}|APIApp\\APIApp.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\unims project\\apiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{215AE319-6506-1684-0DF0-D89725E186FB}|APIApp\\APIApp.csproj|solutionrelative:apiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\unims project\\dal\\ef\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\unims project\\bll\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{215AE319-6506-1684-0DF0-D89725E186FB}|APIApp\\APIApp.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\unims project\\apiapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{215AE319-6506-1684-0DF0-D89725E186FB}|APIApp\\APIApp.csproj|solutionrelative:apiapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\unims project\\dal\\repos\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,10 +77,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\unims project\\bll\\dtos\\studentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\studentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\unims project\\bll\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{215AE319-6506-1684-0DF0-D89725E186FB}|APIApp\\APIApp.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\unims project\\apiapp\\controllers\\enrollmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -73,10 +109,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{215AE319-6506-1684-0DF0-D89725E186FB}|APIApp\\APIApp.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\unims project\\apiapp\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{215AE319-6506-1684-0DF0-D89725E186FB}|APIApp\\APIApp.csproj|solutionrelative:apiapp\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\unims project\\dal\\ef\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\unims project\\bll\\services\\enrollmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -115,16 +147,8 @@
       "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\unims project\\dal\\ef\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\unims project\\bll\\dtos\\studentenrollmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\studentenrollmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\unims project\\bll\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\unims project\\dal\\ef\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -135,20 +159,8 @@
       "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\enrollmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{215AE319-6506-1684-0DF0-D89725E186FB}|APIApp\\APIApp.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\unims project\\apiapp\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{215AE319-6506-1684-0DF0-D89725E186FB}|APIApp\\APIApp.csproj|solutionrelative:apiapp\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\unims project\\bll\\services\\teacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\services\\teacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\unims project\\dal\\interfaces\\istudentfeatures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\istudentfeatures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\unims project\\bll\\mapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\mapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|d:\\coding\\learning-advanced-programming-with-.net-fall_24_25\\unims project\\dal\\interfaces\\irepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -186,45 +198,58 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CreateUserDTO.cs",
-              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\UniMS Project\\BLL\\DTOs\\CreateUserDTO.cs",
-              "RelativeDocumentMoniker": "BLL\\DTOs\\CreateUserDTO.cs",
-              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\UniMS Project\\BLL\\DTOs\\CreateUserDTO.cs",
-              "RelativeToolTip": "BLL\\DTOs\\CreateUserDTO.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\UniMS Project\\APIApp\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "APIApp\\Controllers\\StudentsController.cs",
+              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\UniMS Project\\APIApp\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "APIApp\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAuwHIAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T07:31:12.16Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UserRepo.cs",
-              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\UniMS Project\\DAL\\Repos\\UserRepo.cs",
-              "RelativeDocumentMoniker": "DAL\\Repos\\UserRepo.cs",
-              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\UniMS Project\\DAL\\Repos\\UserRepo.cs",
-              "RelativeToolTip": "DAL\\Repos\\UserRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T09:44:31.797Z",
+              "WhenOpened": "2026-01-19T10:06:07.146Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "DataAccessFactory.cs",
-              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\UniMS Project\\DAL\\DataAccessFactory.cs",
-              "RelativeDocumentMoniker": "DAL\\DataAccessFactory.cs",
-              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\UniMS Project\\DAL\\DataAccessFactory.cs",
-              "RelativeToolTip": "DAL\\DataAccessFactory.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAA8wCwAAAAYAAAAAAAAAA==",
+              "Title": "MapperConfig.cs",
+              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\UniMS Project\\BLL\\MapperConfig.cs",
+              "RelativeDocumentMoniker": "BLL\\MapperConfig.cs",
+              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\UniMS Project\\BLL\\MapperConfig.cs",
+              "RelativeToolTip": "BLL\\MapperConfig.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAawB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T16:01:57.531Z",
+              "WhenOpened": "2026-01-19T16:00:52.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentDashboardDTO.cs",
+              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\UniMS Project\\BLL\\DTOs\\StudentDashboardDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\StudentDashboardDTO.cs",
+              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\UniMS Project\\BLL\\DTOs\\StudentDashboardDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\StudentDashboardDTO.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T17:07:54.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentCourseDTO.cs",
+              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\UniMS Project\\BLL\\DTOs\\StudentCourseDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\StudentCourseDTO.cs",
+              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\UniMS Project\\BLL\\DTOs\\StudentCourseDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\StudentCourseDTO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T17:07:01.471Z",
               "EditorCaption": ""
             },
             {
@@ -235,40 +260,153 @@
               "RelativeDocumentMoniker": "APIApp\\Program.cs",
               "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\UniMS Project\\APIApp\\Program.cs",
               "RelativeToolTip": "APIApp\\Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAnwBsAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAUwFIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-19T16:21:06.42Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\UniMS Project\\BLL\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\StudentService.cs",
+              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\UniMS Project\\BLL\\Services\\StudentService.cs",
+              "RelativeToolTip": "BLL\\Services\\StudentService.cs",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAiwLsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T10:06:04.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentRepo.cs",
+              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\UniMS Project\\DAL\\Repos\\StudentRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\StudentRepo.cs",
+              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\UniMS Project\\DAL\\Repos\\StudentRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\StudentRepo.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAADwvz4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T16:19:21.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\UniMS Project\\DAL\\EF\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\Models\\Course.cs",
+              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\UniMS Project\\DAL\\EF\\Models\\Course.cs",
+              "RelativeToolTip": "DAL\\EF\\Models\\Course.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T16:44:20.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "JwtService.cs",
               "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\UniMS Project\\BLL\\Services\\JwtService.cs",
               "RelativeDocumentMoniker": "BLL\\Services\\JwtService.cs",
               "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\UniMS Project\\BLL\\Services\\JwtService.cs",
               "RelativeToolTip": "BLL\\Services\\JwtService.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAAACUAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB8AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-27T07:53:37.721Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
+              "Title": "IStudentFeatures.cs",
+              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\UniMS Project\\DAL\\Interfaces\\IStudentFeatures.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IStudentFeatures.cs",
+              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\UniMS Project\\DAL\\Interfaces\\IStudentFeatures.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IStudentFeatures.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAhwA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T10:58:04.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\UniMS Project\\BLL\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\AuthService.cs",
+              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\UniMS Project\\BLL\\Services\\AuthService.cs",
+              "RelativeToolTip": "BLL\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA8wBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T09:46:35.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\UniMS Project\\DAL\\EF\\Models\\User.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\Models\\User.cs",
+              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\UniMS Project\\DAL\\EF\\Models\\User.cs",
+              "RelativeToolTip": "DAL\\EF\\Models\\User.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T07:18:43.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DataAccessFactory.cs",
+              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\UniMS Project\\DAL\\DataAccessFactory.cs",
+              "RelativeDocumentMoniker": "DAL\\DataAccessFactory.cs",
+              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\UniMS Project\\DAL\\DataAccessFactory.cs",
+              "RelativeToolTip": "DAL\\DataAccessFactory.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAA8wCwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T16:01:57.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserRepo.cs",
+              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\UniMS Project\\DAL\\Repos\\UserRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\UserRepo.cs",
+              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\UniMS Project\\DAL\\Repos\\UserRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\UserRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T09:44:31.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CreateUserDTO.cs",
+              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\UniMS Project\\BLL\\DTOs\\CreateUserDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\CreateUserDTO.cs",
+              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\UniMS Project\\BLL\\DTOs\\CreateUserDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\CreateUserDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T07:31:12.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\UniMS Project\\APIApp\\appsettings.json",
               "RelativeDocumentMoniker": "APIApp\\appsettings.json",
               "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\UniMS Project\\APIApp\\appsettings.json",
               "RelativeToolTip": "APIApp\\appsettings.json",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAswBoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-27T08:05:01.301Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-27T08:05:01.301Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 15,
               "Title": "LoginController.cs",
               "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\UniMS Project\\APIApp\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "APIApp\\Controllers\\LoginController.cs",
@@ -276,12 +414,11 @@
               "RelativeToolTip": "APIApp\\Controllers\\LoginController.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAmwBUAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T09:52:02.374Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-27T09:52:02.374Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 18,
               "Title": "StudentCreateDTO.cs",
               "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\UniMS Project\\BLL\\DTOs\\StudentCreateDTO.cs",
               "RelativeDocumentMoniker": "BLL\\DTOs\\StudentCreateDTO.cs",
@@ -289,25 +426,11 @@
               "RelativeToolTip": "BLL\\DTOs\\StudentCreateDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T07:18:56.636Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-20T07:18:56.636Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AuthService.cs",
-              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\UniMS Project\\BLL\\Services\\AuthService.cs",
-              "RelativeDocumentMoniker": "BLL\\Services\\AuthService.cs",
-              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\UniMS Project\\BLL\\Services\\AuthService.cs",
-              "RelativeToolTip": "BLL\\Services\\AuthService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T09:46:35.421Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 16,
               "Title": "LoginDTO.cs",
               "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\UniMS Project\\BLL\\DTOs\\LoginDTO.cs",
               "RelativeDocumentMoniker": "BLL\\DTOs\\LoginDTO.cs",
@@ -315,12 +438,11 @@
               "RelativeToolTip": "BLL\\DTOs\\LoginDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T09:55:13.371Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-27T09:55:13.371Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 19,
               "Title": "EnrollmentsController.cs",
               "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\UniMS Project\\APIApp\\Controllers\\EnrollmentsController.cs",
               "RelativeDocumentMoniker": "APIApp\\Controllers\\EnrollmentsController.cs",
@@ -328,12 +450,11 @@
               "RelativeToolTip": "APIApp\\Controllers\\EnrollmentsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T10:06:08.083Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-19T10:06:08.083Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 20,
               "Title": "AdminService.cs",
               "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\UniMS Project\\BLL\\Services\\AdminService.cs",
               "RelativeDocumentMoniker": "BLL\\Services\\AdminService.cs",
@@ -341,12 +462,11 @@
               "RelativeToolTip": "BLL\\Services\\AdminService.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAawBgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T07:28:11.434Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-27T07:28:11.434Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 21,
               "Title": "UniMS.cs",
               "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\UniMS Project\\DAL\\EF\\UniMS.cs",
               "RelativeDocumentMoniker": "DAL\\EF\\UniMS.cs",
@@ -354,38 +474,35 @@
               "RelativeToolTip": "DAL\\EF\\UniMS.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAQwBUAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T07:28:15.156Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-20T07:28:15.156Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "DAL",
+              "DocumentIndex": 22,
+              "Title": "DAL.csproj",
               "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\UniMS Project\\DAL\\DAL.csproj",
               "RelativeDocumentMoniker": "DAL\\DAL.csproj",
               "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\UniMS Project\\DAL\\DAL.csproj",
               "RelativeToolTip": "DAL\\DAL.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-27T09:41:16.113Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-27T09:41:16.113Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "APIApp",
+              "DocumentIndex": 23,
+              "Title": "APIApp.csproj",
               "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\UniMS Project\\APIApp\\APIApp.csproj",
               "RelativeDocumentMoniker": "APIApp\\APIApp.csproj",
               "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\UniMS Project\\APIApp\\APIApp.csproj",
               "RelativeToolTip": "APIApp\\APIApp.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-27T07:59:52.575Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-27T07:59:52.575Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 25,
               "Title": "AdminController.cs",
               "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\UniMS Project\\APIApp\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "APIApp\\Controllers\\AdminController.cs",
@@ -393,12 +510,11 @@
               "RelativeToolTip": "APIApp\\Controllers\\AdminController.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAADwvxIAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T07:32:28.478Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-27T07:32:28.478Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 26,
               "Title": "CoursesController.cs",
               "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\UniMS Project\\APIApp\\Controllers\\CoursesController.cs",
               "RelativeDocumentMoniker": "APIApp\\Controllers\\CoursesController.cs",
@@ -406,12 +522,11 @@
               "RelativeToolTip": "APIApp\\Controllers\\CoursesController.cs",
               "ViewState": "AgIAAC0AAAAAAAAAAAAowDoAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T18:24:59.539Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-19T18:24:59.539Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 24,
               "Title": "CourseService.cs",
               "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\UniMS Project\\BLL\\Services\\CourseService.cs",
               "RelativeDocumentMoniker": "BLL\\Services\\CourseService.cs",
@@ -419,25 +534,11 @@
               "RelativeToolTip": "BLL\\Services\\CourseService.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAQwA0AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T18:19:42.668Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-19T18:19:42.668Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\UniMS Project\\DAL\\EF\\Models\\User.cs",
-              "RelativeDocumentMoniker": "DAL\\EF\\Models\\User.cs",
-              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\UniMS Project\\DAL\\EF\\Models\\User.cs",
-              "RelativeToolTip": "DAL\\EF\\Models\\User.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAUwA4AAABKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T07:18:43.727Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 28,
               "Title": "TeachersController.cs",
               "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\UniMS Project\\APIApp\\Controllers\\TeachersController.cs",
               "RelativeDocumentMoniker": "APIApp\\Controllers\\TeachersController.cs",
@@ -445,12 +546,11 @@
               "RelativeToolTip": "APIApp\\Controllers\\TeachersController.cs",
               "ViewState": "AgIAACIAAAAAAAAAAAAkwCcAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T19:08:14.579Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-19T19:08:14.579Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 27,
               "Title": "EnrollmentService.cs",
               "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\UniMS Project\\BLL\\Services\\EnrollmentService.cs",
               "RelativeDocumentMoniker": "BLL\\Services\\EnrollmentService.cs",
@@ -458,12 +558,11 @@
               "RelativeToolTip": "BLL\\Services\\EnrollmentService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T10:06:02.037Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-19T10:06:02.037Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 29,
               "Title": "DepartmentsController.cs",
               "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\UniMS Project\\APIApp\\Controllers\\DepartmentsController.cs",
               "RelativeDocumentMoniker": "APIApp\\Controllers\\DepartmentsController.cs",
@@ -471,12 +570,11 @@
               "RelativeToolTip": "APIApp\\Controllers\\DepartmentsController.cs",
               "ViewState": "AgIAACAAAAAAAAAAAAAgwCEAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T16:18:38.124Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-19T16:18:38.124Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 30,
               "Title": "EnrollmentGradeDTO.cs",
               "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\UniMS Project\\BLL\\DTOs\\EnrollmentGradeDTO.cs",
               "RelativeDocumentMoniker": "BLL\\DTOs\\EnrollmentGradeDTO.cs",
@@ -484,12 +582,11 @@
               "RelativeToolTip": "BLL\\DTOs\\EnrollmentGradeDTO.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T19:46:08.97Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-19T19:46:08.97Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 31,
               "Title": "EnrollmentCreateDTO.cs",
               "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\UniMS Project\\BLL\\DTOs\\EnrollmentCreateDTO.cs",
               "RelativeDocumentMoniker": "BLL\\DTOs\\EnrollmentCreateDTO.cs",
@@ -497,12 +594,11 @@
               "RelativeToolTip": "BLL\\DTOs\\EnrollmentCreateDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T19:59:45.281Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-19T19:59:45.281Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 32,
               "Title": "DepartmentDTO.cs",
               "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\UniMS Project\\BLL\\DTOs\\DepartmentDTO.cs",
               "RelativeDocumentMoniker": "BLL\\DTOs\\DepartmentDTO.cs",
@@ -510,12 +606,11 @@
               "RelativeToolTip": "BLL\\DTOs\\DepartmentDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T15:45:32.199Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-19T15:45:32.199Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 33,
               "Title": "IEnrollmentFeature.cs",
               "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\UniMS Project\\DAL\\Interfaces\\IEnrollmentFeature.cs",
               "RelativeDocumentMoniker": "DAL\\Interfaces\\IEnrollmentFeature.cs",
@@ -523,12 +618,11 @@
               "RelativeToolTip": "DAL\\Interfaces\\IEnrollmentFeature.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T10:42:06.758Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-20T10:42:06.758Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 34,
               "Title": "MailService.cs",
               "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\UniMS Project\\BLL\\Services\\MailService.cs",
               "RelativeDocumentMoniker": "BLL\\Services\\MailService.cs",
@@ -536,12 +630,11 @@
               "RelativeToolTip": "BLL\\Services\\MailService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T10:06:03.245Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-19T10:06:03.245Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 41,
               "Title": "StudentDTO.cs",
               "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\UniMS Project\\BLL\\DTOs\\StudentDTO.cs",
               "RelativeDocumentMoniker": "BLL\\DTOs\\StudentDTO.cs",
@@ -549,12 +642,11 @@
               "RelativeToolTip": "BLL\\DTOs\\StudentDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T09:09:39.633Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-20T09:09:39.633Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 35,
               "Title": "Enrollment.cs",
               "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\UniMS Project\\DAL\\EF\\Models\\Enrollment.cs",
               "RelativeDocumentMoniker": "DAL\\EF\\Models\\Enrollment.cs",
@@ -562,12 +654,11 @@
               "RelativeToolTip": "DAL\\EF\\Models\\Enrollment.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T16:02:57.947Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-20T16:02:57.947Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 40,
               "Title": "IRepositories.cs",
               "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\UniMS Project\\DAL\\Interfaces\\IRepositories.cs",
               "RelativeDocumentMoniker": "DAL\\Interfaces\\IRepositories.cs",
@@ -575,12 +666,11 @@
               "RelativeToolTip": "DAL\\Interfaces\\IRepositories.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T10:42:00.081Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-20T10:42:00.081Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 36,
               "Title": "StudentEnrollmentDTO.cs",
               "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\UniMS Project\\BLL\\DTOs\\StudentEnrollmentDTO.cs",
               "RelativeDocumentMoniker": "BLL\\DTOs\\StudentEnrollmentDTO.cs",
@@ -588,12 +678,11 @@
               "RelativeToolTip": "BLL\\DTOs\\StudentEnrollmentDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T10:33:26.461Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-20T10:33:26.461Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 37,
               "Title": "Student.cs",
               "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\UniMS Project\\DAL\\EF\\Models\\Student.cs",
               "RelativeDocumentMoniker": "DAL\\EF\\Models\\Student.cs",
@@ -601,25 +690,11 @@
               "RelativeToolTip": "DAL\\EF\\Models\\Student.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAmwB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T06:58:47.56Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-20T06:58:47.56Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "IStudentFeatures.cs",
-              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\UniMS Project\\DAL\\Interfaces\\IStudentFeatures.cs",
-              "RelativeDocumentMoniker": "DAL\\Interfaces\\IStudentFeatures.cs",
-              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\UniMS Project\\DAL\\Interfaces\\IStudentFeatures.cs",
-              "RelativeToolTip": "DAL\\Interfaces\\IStudentFeatures.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T10:58:04.55Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 38,
               "Title": "EnrollmentDTO.cs",
               "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\UniMS Project\\BLL\\DTOs\\EnrollmentDTO.cs",
               "RelativeDocumentMoniker": "BLL\\DTOs\\EnrollmentDTO.cs",
@@ -627,12 +702,11 @@
               "RelativeToolTip": "BLL\\DTOs\\EnrollmentDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T19:47:18.281Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-19T19:47:18.281Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 39,
               "Title": "TeacherService.cs",
               "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\UniMS Project\\BLL\\Services\\TeacherService.cs",
               "RelativeDocumentMoniker": "BLL\\Services\\TeacherService.cs",
@@ -640,12 +714,11 @@
               "RelativeToolTip": "BLL\\Services\\TeacherService.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAowBEAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T19:06:49.703Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-19T19:06:49.703Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 42,
               "Title": "Teacher.cs",
               "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\UniMS Project\\DAL\\EF\\Models\\Teacher.cs",
               "RelativeDocumentMoniker": "DAL\\EF\\Models\\Teacher.cs",
@@ -653,12 +726,11 @@
               "RelativeToolTip": "DAL\\EF\\Models\\Teacher.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T19:02:28.619Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-19T19:02:28.619Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 44,
               "Title": "TeacherDTO.cs",
               "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\UniMS Project\\BLL\\DTOs\\TeacherDTO.cs",
               "RelativeDocumentMoniker": "BLL\\DTOs\\TeacherDTO.cs",
@@ -666,38 +738,11 @@
               "RelativeToolTip": "BLL\\DTOs\\TeacherDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T19:02:15.602Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-19T19:02:15.602Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Course.cs",
-              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\UniMS Project\\DAL\\EF\\Models\\Course.cs",
-              "RelativeDocumentMoniker": "DAL\\EF\\Models\\Course.cs",
-              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\UniMS Project\\DAL\\EF\\Models\\Course.cs",
-              "RelativeToolTip": "DAL\\EF\\Models\\Course.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAABRwBIAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T16:44:20.639Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "MapperConfig.cs",
-              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\UniMS Project\\BLL\\MapperConfig.cs",
-              "RelativeDocumentMoniker": "BLL\\MapperConfig.cs",
-              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\UniMS Project\\BLL\\MapperConfig.cs",
-              "RelativeToolTip": "BLL\\MapperConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T16:00:52.472Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 45,
               "Title": "DepartmentService.cs",
               "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\UniMS Project\\BLL\\Services\\DepartmentService.cs",
               "RelativeDocumentMoniker": "BLL\\Services\\DepartmentService.cs",
@@ -705,12 +750,11 @@
               "RelativeToolTip": "BLL\\Services\\DepartmentService.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAowBMAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T15:59:12.829Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-19T15:59:12.829Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 43,
               "Title": "CourseDTO.cs",
               "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\UniMS Project\\BLL\\DTOs\\CourseDTO.cs",
               "RelativeDocumentMoniker": "BLL\\DTOs\\CourseDTO.cs",
@@ -718,12 +762,11 @@
               "RelativeToolTip": "BLL\\DTOs\\CourseDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T15:47:33.971Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-19T15:47:33.971Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 46,
               "Title": "Department.cs",
               "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\UniMS Project\\DAL\\EF\\Models\\Department.cs",
               "RelativeDocumentMoniker": "DAL\\EF\\Models\\Department.cs",
@@ -731,34 +774,7 @@
               "RelativeToolTip": "DAL\\EF\\Models\\Department.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T15:39:49.859Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "StudentsController.cs",
-              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\UniMS Project\\APIApp\\Controllers\\StudentsController.cs",
-              "RelativeDocumentMoniker": "APIApp\\Controllers\\StudentsController.cs",
-              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\UniMS Project\\APIApp\\Controllers\\StudentsController.cs",
-              "RelativeToolTip": "APIApp\\Controllers\\StudentsController.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAwwGkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T10:06:07.146Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "StudentService.cs",
-              "DocumentMoniker": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\UniMS Project\\BLL\\Services\\StudentService.cs",
-              "RelativeDocumentMoniker": "BLL\\Services\\StudentService.cs",
-              "ToolTip": "D:\\coding\\learning-Advanced-Programming-with-.NET-Fall_24_25\\UniMS Project\\BLL\\Services\\StudentService.cs",
-              "RelativeToolTip": "BLL\\Services\\StudentService.cs",
-              "ViewState": "AgIAAHEAAAAAAAAAAAAUwE4AAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T10:06:04.779Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-19T15:39:49.859Z"
             }
           ]
         }

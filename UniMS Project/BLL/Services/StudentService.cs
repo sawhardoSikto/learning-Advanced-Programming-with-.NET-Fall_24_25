@@ -172,6 +172,21 @@ namespace BLL.Services
             }
             return 0.0;
         }
+        public StudentDashboardDTO GetDashboard(int sid)
+        {
+            var student = factory.StudentData().GetById(sid);
+
+            if (student == null)
+            {
+                return null;
+            }
+            var enrollments = factory.EnrollmentData().GetByStudent(sid);
+
+            var cfg = MapperConfig.GetMapper();
+            var dto = cfg.Map<StudentDashboardDTO>(student);
+            dto.Courses = MapperConfig.GetMapper().Map<List<StudentCourseDTO>>(enrollments);
+            return dto;
+        }
 
     }
 }

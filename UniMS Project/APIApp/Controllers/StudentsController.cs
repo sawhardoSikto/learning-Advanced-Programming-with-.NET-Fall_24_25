@@ -1,5 +1,7 @@
 ﻿using BLL.DTOs;
 using BLL.Services;
+using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Authorization.Infrastructure;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -102,6 +104,15 @@ namespace APIApp.Controllers
         {
             var student = service.GetWithEnrollmentById(id);
             return Ok(student);
+        }
+
+        [HttpGet("dashboard")]
+        [Authorize(Roles = "student")]
+        public IActionResult Dashboard()
+        {
+            var sid = User.FindFirst("ReferenceId")!.Value;
+            var dashboard = service.GetDashboard(int.Parse(sid));
+            return Ok(dashboard);
         }
     }
 }

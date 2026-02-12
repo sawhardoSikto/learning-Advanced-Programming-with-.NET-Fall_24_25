@@ -24,7 +24,8 @@ namespace BLL.Services
             if (user == null)
                 return null;
 
-            return jwtService.CreateToken(user.Username, user.Role);
+            return jwtService.CreateToken(user);
         }
+
     }
 }

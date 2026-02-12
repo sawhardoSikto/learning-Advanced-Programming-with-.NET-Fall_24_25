@@ -11,5 +11,7 @@ namespace DAL.Interfaces
     {
         public List<Student> GetWithEnrollment();
         public Student GetWithEnrollmentById(int id);
+        Student GetByUsername(int id);
+        List<Enrollment> GetEnrollments(int studentId);
     }
 }
